@@ -32,7 +32,7 @@
             "D": "Anılarına bağlı olarak mutluluk duygusuna kapılma",
             "E": "Okuduklarının doğruluk derecesini düşünme"
           },
-          "dogru_cevap": "E"
+          "dogru_cevap": "C"
         },
         {
           "no": 3,
@@ -188,7 +188,7 @@
             "D": "IV.",
             "E": "V."
           },
-          "dogru_cevap": "E"
+          "dogru_cevap": "D"
         },
         {
           "no": 16,
@@ -380,7 +380,7 @@
             "D": "-1",
             "E": "-2"
           },
-          "dogru_cevap": "E"
+          "dogru_cevap": "B"
         },
         {
           "no": 32,
@@ -474,7 +474,7 @@
             "B": "$\\frac{1}{2}\\le x\\le3$",
             "C": "$3<x\\le5$",
             "D": "$x\\ge5$",
-            "E": "$\\frac{1}{2}\\le x < 3$ veya $x \\ge 5$ (Seçenekler metinde tam çıkmamış, genel çözüm: x <= 1/2 veya 3 < x <= 5)"
+            "E": "$\\frac{1}{2}\\le x < 3$ veya $x \\ge 5$"
           },
           "dogru_cevap": "C"
         },
@@ -512,7 +512,7 @@
             "D": "127",
             "E": "129"
           },
-          "dogru_cevap": "B"
+          "dogru_cevap": "A"
         },
         {
           "no": 43,
@@ -536,7 +536,7 @@
             "D": "18",
             "E": "20"
           },
-          "dogru_cevap": "B"
+          "dogru_cevap": "E"
         },
         {
           "no": 45,
@@ -690,8 +690,7 @@
             "B": "28",
             "C": "30",
             "D": "32",
-            "E": "12 (Şıklarda 12 görünüyor, cevap anahtarı B diyor ama sorudaki geometrik bağıntıdan genellikle 12 çıkar)",
-            "Not": "Cevap anahtarı B şıkkı olarak verilmiştir."
+            "E": "12"
           },
           "dogru_cevap": "B"
         },
@@ -987,7 +986,7 @@
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "dogru_cevap": "D"
+          "dogru_cevap": "E"
         },
         {
           "no": 22,
@@ -1066,7 +1065,7 @@
           "metin": "Atatürk Döneminde Boğazların stratejik öneminin artmasında, aşağıdakilerden hangisinin etkisi olduğu savunulamaz?",
           "secenekler": {
             "A": "Eski Doğu Bloku Ülkelerinin Batı ile ilişkilerinin yoğunlaşmaya başlaması",
-            "B": "Varşova Paktı'nın dağılması (Bu olay Atatürk döneminden çok sonradır)",
+            "B": "Varşova Paktı'nın dağılması",
             "C": "Boğazların Batı'ya açılan en önemli kapı olma özelliğini koruması",
             "D": "Kafkaslardaki devletler arasında sınır sorunlarının yaşanması",
             "E": "Rusya Federasyonu'nun Kafkas devletleri üzerinde etkinliğini korumaya çalışması"
@@ -1189,7 +1188,7 @@
             "B": "Üreticinin fiyatlardaki ani iniş ve çıkışlardan zarar görmesini engellemesi",
             "C": "Ürünlerin uygun fiyatlarla piyasaya sunulması ve keyfi fiyat artışının engellenmesi",
             "D": "Aynı tarım ürününün tüm bölgelerde aynı fiyatlarla satılmasının sağlanması",
-            "E": "Üreticinin emeğinin karşılığını almasının sağlanması (Not: Seçenek D PDF'de kesik ama bağlamdan tamamlanmıştır)"
+            "E": "Üreticinin emeğinin karşılığını almasının sağlanması"
           },
           "dogru_cevap": "E"
         },
@@ -1207,7 +1206,7 @@
         },
         {
           "no": 40,
-          "metin": "Akdeniz Bölgesi'nin ekonomik bakımdan gelişmesinde aşağıdakilerden hangisinin etkisi diğerlerinden daha azdır?",
+          "metin": "Akdeniz Bölgesi'nin ekonomik bakımdan gelişmesinde aşağıdakilerden hangisinin etkisi diğerlerin den daha azdır?",
           "secenekler": {
             "A": "Kıyı balıkçılığının yapılması",
             "B": "Tarıma dayalı endüstri kuruluşlarının bulunması",
@@ -1239,7 +1238,7 @@
             "D": "II ve IV",
             "E": "III ve IV"
           },
-          "dogru_cevap": "E"
+          "dogru_cevap": "C"
         },
         {
           "no": 43,
@@ -1455,7 +1454,7 @@
             "D": "İthalat: 20. sırada, İhracat: 20. sırada",
             "E": "İthalat: 10. sırada, İhracat: 10. sırada"
           },
-          "dogru_cevap": "A"
+          "dogru_cevap": "B"
         }
       ]
     }
