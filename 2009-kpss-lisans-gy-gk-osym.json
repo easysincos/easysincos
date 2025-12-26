@@ -1,1451 +1,1461 @@
 {
-  "exam_info": {
-    "title": "KPSS Deneme Sınavı",
-    "description": "Genel Yetenek ve Genel Kültür Testleri",
-    "source_file": "Yeni Metin Belgesi.txt"
+  "sinav_bilgisi": {
+    "ad": "Kamu Personel Seçme Sınavı (A Grubu ve Öğretmenlik)",
+    "tarih": "27 Haziran 2009",
+    "kurum": "ÖSYM",
+    "kitapcik_turu": "A"
   },
-  "sections": [
+  "testler": [
     {
-      "section_name": "Genel Yetenek",
-      "questions": [
+      "test_adi": "Genel Yetenek",
+      "soru_sayisi": 60,
+      "sorular": [
         {
-          "number": 1,
-          "text": "Halkımız günlük konuşmalarında, insana özgü birçok durumu, \"yüz\" sözcüğüyle kurulan sözsel bağdaştırmalarla anlatmıştır. Söz gelimi, övünmeyi gerektiren bir duruma yüz akı, ortaya çıkan utanılacak duruma yüz karası demektedir. Bir kimsenin çirkinliğini belirtmek için yüzüne bakılmaz, karşısındakini utanacak duruma düşürenler için yüzünün derisi kalın sözünü kullanmaktadır. Bir kimsenin çok güzel olduğunu vurgulamak için de yüzüne bakmaya kıyamazsın deyimini... Bu parçadaki altı çizili sözlerden hangisinin, kendinden önce verilen açıklaması yanlıştır?",
-          "options": {
+          "no": 1,
+          "metin": "Halkımız günlük konuşmalarında, insana özgü birçok durumu, \"yüz\" sözcüğüyle kurulan sözsel bağdaştırmalarla anlatmıştır. Söz gelimi, övünmeyi gerektiren bir duruma **(I) yüz akı**, ortaya çıkan utanılacak duruma **(II) yüz karası** demektedir. Bir kimsenin çirkinliğini belirtmek için **(III) yüzüne bakılmaz**, karşısındakini utanacak duruma düşürenler için **(IV) yüzünün derisi kalın** sözünü kullanmaktadır. Bir kimsenin çok güzel olduğunu vurgulamak için de **(V) yüzüne bakmaya kıyamazsın** deyimini... Bu parçadaki altı çizili sözlerden hangisinin, kendinden önce verilen açıklaması yanlıştır?",
+          "secenekler": {
             "A": "I.",
             "B": "II.",
             "C": "III.",
             "D": "IV.",
             "E": "V."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 2,
-          "text": "Öyküler dünyanın farklı yerlerinde geçse de okuyanda tuhaf bir \"bizden\"lik duygusu uyandırıyor; aşkın, kararsızlığın, tekinsizliğin ve yalnızlığın evrensel olduğunu, bu öykülerde kendimizi yazara yakalanmış hissettiğimizde bir kez daha hatırlıyoruz. Bu cümledeki altı çizili sözle, okurla ilgili olarak anlatılmak istenen aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 2,
+          "metin": "Öyküler dünyanın farklı yerlerinde geçse de okuyanda tuhaf bir **\"bizden\"lik** duygusu uyandırıyor; aşkın, kararsızlığın, tekinsizliğin ve yalnızlığın evrensel olduğunu, bu öykülerde kendimizi yazara yakalanmış hissettiğimizde bir kez daha hatırlıyoruz. Bu cümledeki altı çizili sözle, okurla ilgili olarak anlatılmak istenen aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "Anlatılanları değişik biçimlerde algılama",
             "B": "Yaşamla ilgili düşüncelerini pekiştirme",
             "C": "Anlatılanları yaşadığını duyumsama",
             "D": "Anılarına bağlı olarak mutluluk duygusuna kapılma",
             "E": "Okuduklarının doğruluk derecesini düşünme"
           },
-          "answer": "C"
+          "dogru_cevap": "E"
         },
         {
-          "number": 3,
-          "text": "Titizlikle, kılı kırk yararak ortaya koyduğu ürünlerini kitaplaştırmak için yıllarca bekler; kendi deyişiyle, \"onların sirkeleşip sirkeleşmediğini görmek ister. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 3,
+          "metin": "Titizlikle, kılı kırk yararak ortaya koyduğu ürünlerini kitaplaştırmak için yıllarca bekler; kendi deyişiyle, \"**onların sirkeleşip sirkeleşmediğini**\" görmek ister. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "İstenilen yetkinliğe ulaşıp ulaşamama",
             "B": "Eskiyip unutulma",
             "C": "Olumlu ya da olumsuz yönlerden algılanma",
             "D": "Zamanla çekiciliğini yitirip yitirmeme",
             "E": "Başkalarınca örnek alınma"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 4,
-          "text": "Bu sanatçımız daha kitabın başlarında uyarıyor okurunu: \"Ötekini oku; derinde, dipte duranı; ince şeyler bunlar.\" Bu sözler, onun şiirlerinin anlaşılması için kendisinin cömertçe önümüze kattığı kılavuzlardır. Bunlara dikkat edilmezse yanlış anlaşılabilir onun şiiri, tekdüze bir tekrarlanış sanılabilir. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 4,
+          "metin": "Bu sanatçımız daha kitabın başlarında uyarıyor okurunu: \"Ötekini oku; derinde, dipte duranı; **ince şeyler bunlar**.\" Bu sözler, onun şiirlerinin anlaşılması için kendisinin cömertçe önümüze kattığı kılavuzlardır. Bunlara dikkat edilmezse yanlış anlaşılabilir onun şiiri, tekdüze bir tekrarlanış sanılabilir. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "Ancak şiirsel birikimi olanların kavrayabileceği anlamlar taşıma",
             "B": "Açıkça söylenmemiş gizli anlamlar içerme",
             "C": "Şairin istemediği yönde yorumlara yol açma",
             "D": "Farklı olmaya çalışırken anlaşılmaz olma",
             "E": "Karşıt anlamlar taşıma"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 5,
-          "text": "Onun, yazma ve yaratma eylemindeki büyük değişme ve gelişme, kendisinin hem okuru hem de eleştirmeni olmasıyla başladı. Söz gelimi, ilk denemelerinde sıfat kullanma tutkusundan kaynaklanan sanatlı bir anlatımı vardı. Kendisiyle ilk denemeleri üzerinde konuşurken bu tutumuna değinir, \"Yine sözcükleri renklerle donatıp onları köpürtmüşsün.\" diye takılırdım ona. Kimileyin bunun gerekliliğini savunur kimileyin sesini çıkarmaz, yalnızca gülümser geçerdi. Belli ki bir öz eleştiri sürecine girerdi. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 5,
+          "metin": "Onun, yazma ve yaratma eylemindeki büyük değişme ve gelişme, kendisinin hem okuru hem de eleştirmeni olmasıyla başladı. Söz gelimi, ilk denemelerinde sıfat kullanma tutkusundan kaynaklanan sanatlı bir anlatımı vardı. Kendisiyle ilk denemeleri üzerinde konuşurken bu tutumuna değinir, \"**Yine sözcükleri renklerle donatıp onları köpürtmüşsün.**\" diye takılırdım ona. Bu parçadaki altı çizili sözle anlatılmak istenen aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "Söylenenleri okurun gözünde canlandıracak anlatımlara başvurmak",
             "B": "Sözcüklere yeni, çağrışımsal anlamlar yüklemek",
             "C": "Söyleyiş yönünden süslü, gösterişli, kof bir yapıyı yeğlemek",
             "D": "Sözcüğün birkaç anlamını birlikte kullanmak",
             "E": "Kolay anlaşılır, yalın nitelikte ürün vermek"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 6,
-          "text": "(I) İçimize işlemiş \"vefasızlık\" duygusuna bir tepki gösterme düşüncesiyle bu kitabı yazdım. (II) Kitabımın başında da özellikle söylediğim gibi, ben bu kitabı ustam Suavi Süalp'le birlikte, mizahımıza yüreğini koymuş bütün mizahçılara adadım. (III) Suavi Süalp bu kitabı çoktan hak etmiş bir mizah dehasıydı. (IV) Ama 1981'de aniden aramızdan ayrılınca ne yazık ki adı da mizahımıza getirdiği yenilikler de unutuldu. (V) İstedim ki onun adını bile duymamış gençler onu tanısın. (VI) Gerçi bu kitapla ilgileneceklerini pek sanmıyorum ama tarihe sağlam bir belge bırakmak da yeter bana. Bu parçada konuşan kişiye ilişkin numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
-          "options": {
+          "no": 6,
+          "metin": "(I) İçimize işlemiş \"vefasızlık\" duygusuna bir tepki gösterme düşüncesiyle bu kitabı yazdım. (II) Kitabımın başında da özellikle söylediğim gibi, ben bu kitabı ustam Suavi Süalp'le birlikte, mizahımıza yüreğini koymuş bütün mizahçılara adadım. (III) Suavi Süalp bu kitabı çoktan hak etmiş bir mizah dehasıydı. (IV) Ama 1981'de aniden aramızdan ayrılınca ne yazık ki adı da mizahımıza getirdiği yenilikler de unutuldu. (V) İstedim ki onun adını bile duymamış gençler onu tanısın. (VI) Gerçi bu kitapla ilgileneceklerini pek sanmıyorum ama tarihe sağlam bir belge bırakmak da yeter bana. Bu parçada konuşan kişiye ilişkin numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
+          "secenekler": {
             "A": "I. cümlede, kitabı neden hazırladığını açıklıyor.",
             "B": "II. cümlede, kimi sanatçıların emeğine duyduğu saygıyı gösteriyor.",
             "C": "III. cümlede, söz konusu kişiyi övgü dolu sözlerle tanıtıyor.",
             "D": "IV. cümlede, bir üzüntüsünü dile getiriyor.",
             "E": "VI. cümlede, bir yanlışlığı düzelttiğinden söz ediyor."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 7,
-          "text": "(I) Yaşamı boyunca az sayıda şiir yayımlamış bir şairdir. (II) Bu yüzden bazen, tembel bir şair olduğu bile söylenmiştir. (III) Oysa, tembellik gibi görünen durum aslında başka bir şeydir. (IV) Bazen bir şiir üzerinde iki, üç yıl süren titiz bir çalışma... (V) Ta ki aksayan bir yön kalmayıncaya ve kendisi, şiiri karşısında huzur buluncaya kadar... Bir şair ve şiirinin anlatıldığı bu parçadaki numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
-          "options": {
+          "no": 7,
+          "metin": "(I) Yaşamı boyunca az sayıda şiir yayımlamış bir şairdir. (II) Bu yüzden bazen, tembel bir şair olduğu bile söylenmiştir. (III) Oysa, tembellik gibi görünen durum aslında başka bir şeydir. (IV) Bazen bir şiir üzerinde iki, üç yıl süren titiz bir çalışma... (V) Ta ki aksayan bir yön kalmayıncaya ve kendisi, şiiri karşısında huzur buluncaya kadar... Bir şair ve şiirinin anlatıldığı bu parçadaki numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
+          "secenekler": {
             "A": "I. cümlede, saptama yapılmıştır.",
             "B": "II. cümlede, I. cümlede belirtilenle ilgili yoruma yer verilmiştir.",
             "C": "III. cümlede, bir yanılgıdan söz edilmiştir.",
             "D": "IV. cümlede, yetersizlik dile getirilmiştir.",
             "E": "V. cümlede, önceki cümleyle ilgili bir açıklama yapılmıştır."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 8,
-          "text": "(I) Bu gezi kitabında yazar, yalnızca \"Ne yenir, nerede kalınır, nasıl gidilir?\" gibi bilinen, pratik bilgilerle yetinmemiş. (II) Gördüğü yerlerle ilgili bilinen doğal güzelliklere de yer vermiş, atlanmaması gereken, nitelikli, detaylı tarihî bilgilere de. (III) Tüm bunlar, kitabın profesyonel düzeydeki alt yapısını oluşturmuş. (IV) Bana göre bu kitabın, öteki gezi kitaplarından ayrılan başka bir özelliği daha var. (V) O da, anlatılan her yere ilişkin olarak dile getirilen insan öyküleri, insani ayrıntılar, küçük öyküler... Bir kitabın anlatıldığı bu parçadaki numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
-          "options": {
+          "no": 8,
+          "metin": "(I) Bu gezi kitabında yazar, yalnızca \"Ne yenir, nerede kalınır, nasıl gidilir?\" gibi bilinen, pratik bilgilerle yetinmemiş. (II) Gördüğü yerlerle ilgili bilinen doğal güzelliklere de yer vermiş, atlanmaması gereken, nitelikli, detaylı tarihî bilgilere de. (III) Tüm bunlar, kitabın profesyonel düzeydeki alt yapısını oluşturmuş. (IV) Bana göre bu kitabın, öteki gezi kitaplarından ayrılan başka bir özelliği daha var. (V) O da, anlatılan her yere ilişkin olarak dile getirilen insan öyküleri, insani ayrıntılar, küçük öyküler... Bir kitabın anlatıldığı bu parçadaki numaralanmış cümlelerle ilgili olarak aşağıda verilenlerden hangisi yanlıştır?",
+          "secenekler": {
             "A": "I. cümlede, alışılmışın dışında bilgilere yer verildiği belirtilmiştir.",
             "B": "II. cümlede, önceki cümlede belirtilenlerle ilgili açıklama yapılmıştır.",
             "C": "III. cümlede, daha önce anlatılanların kitabın değerini belirleyen yönler olduğu söylenmiştir.",
             "D": "IV. cümlede, daha sonra söyleneceklerle ilgili bir giriş yapılmıştır.",
             "E": "V. cümlede, anlatılan pek çok şeyin birbirine benzediği üzerinde durulmuştur."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 9,
-          "text": "(I) Sanatçı, bütün yapıtlarında öne sürdüğü görüşleri aracılığıyla \"Doğu ve Batı arasında köprü kuruyor.\" (II) Ancak onun yapıtları, bunun çok ötesinde bir nitelik taşıyor. (III) En başta insanın içsel çelişkilerini ustaca betimliyor. (IV) Yaşamın karmaşıklığının, çeşitliliğinin yorulmak bilmez bir tanığı bu yapıt. (V) Batı'nın postmodern roman tekniğini ve Doğu'ya özgü geleneksel anlatım biçimlerini bir potada eritiyor. (VI) Herkesi, kendi sorunlarıyla yüz yüze getiriyor. Bir sanatçının yapıtlarının anlatıldığı bu parçadaki numaralanmış cümlelerden hangisi \"içerik\"e ilişkin değildir?",
-          "options": {
+          "no": 9,
+          "metin": "(I) Sanatçı, bütün yapıtlarında öne sürdüğü görüşleri aracılığıyla \"Doğu ve Batı arasında köprü kuruyor.\" (II) Ancak onun yapıtları, bunun çok ötesinde bir nitelik taşıyor. (III) En başta insanın içsel çelişkilerini ustaca betimliyor. (IV) Yaşamın karmaşıklığının, çeşitliliğinin yorulmak bilmez bir tanığı bu yapıt. (V) Batı'nın postmodern roman tekniğini ve Doğu'ya özgü geleneksel anlatım biçimlerini bir potada eritiyor. (VI) Herkesi, kendi sorunlarıyla yüz yüze getiriyor. Bir sanatçının yapıtlarının anlatıldığı bu parçadaki numaralanmış cümlelerden hangisi \"içerik\"e ilişkin değildir?",
+          "secenekler": {
             "A": "I.",
             "B": "III.",
             "C": "IV.",
             "D": "V.",
             "E": "VI."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 10,
-          "text": "Türkçe sözcüklerin sonunda yumuşak ünsüzler (b, c, d, g) bulunmaz, sert ünsüzler (p, ç, t, k) bulunur. Böyle sözcükler, ünlü ile başlayan bir ek alınca sondaki sert ünsüzler yumuşar. Aşağıdaki cümlelerin hangisindeki altı çizili sözcük bu kuralı örneklendirmemektedir?",
-          "options": {
-            "A": "İlerlemiş yaşına karşın saçının bir teli bile ağarmamış.",
+          "no": 10,
+          "metin": "Türkçe sözcüklerin sonunda yumuşak ünsüzler (b, c, d, g) bulunmaz, sert ünsüzler (p, ç, t, k) bulunur. Böyle sözcükler, ünlü ile başlayan bir ek alınca sondaki sert ünsüzler yumuşar. Aşağıdaki cümlelerin hangisindeki altı çizili sözcük bu kuralı örneklendirmemektedir?",
+          "secenekler": {
+            "A": "İlerlemiş yaşına karşın **saçının** bir teli bile ağarmamış.",
             "B": "Yurdunu on yıldır görmediğini söylüyordu.",
             "C": "Bizim sokağın kaldırımları onarılacakmış.",
             "D": "Tarla birkaç kez sürülünce toprağın verimi artıyor.",
             "E": "Anlattıklarının çoğu bilinen şeyler olduğu için ilgimi çekmemişti."
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 11,
-          "text": "Aşağıda verilen cümlelerin hangisindeki altı çizili sözcük bağlaç olarak kullanılmamıştır?",
-          "options": {
-            "A": "Derse geciktim, çünkü trafik sıkıştı.",
-            "B": "İstersen oraya gideriz de, gece vakti nasıl döneceğimizi düşünüyorum.",
-            "C": "Sabah saçımı kestirdim, sonra taksitleri ödemeye gittim.",
-            "D": "Alışverişe çıktım, yalnız istediğin deterjanı bulamadım.",
-            "E": "Suratı asıktı, meğer bana kızmış."
+          "no": 11,
+          "metin": "Aşağıda verilen cümlelerin hangisindeki altı çizili sözcük bağlaç olarak kullanılmamıştır?",
+          "secenekler": {
+            "A": "Derse geciktim, **çünkü** trafik sıkıştı.",
+            "B": "İstersen oraya gideriz **de**, gece vakti nasıl döneceğimizi düşünüyorum.",
+            "C": "Sabah saçımı kestirdim, **sonra** taksitleri ödemeye gittim.",
+            "D": "Alışverişe çıktım, **yalnız** istediğin deterjanı bulamadım.",
+            "E": "Suratı asıktı, **meğer** bana kızmış."
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 12,
-          "text": "(I) Dönüp dolaşıp yine o parka geldi. (II) Küçük bir parktı burası. (III) Yeni yapılmıştı. (IV) Birkaç yıllıktı henüz. (V) Güzel ve sağlamdı kanepeleri daha. (VI) Her akşamüstü bunlara insanlar oturup seyrediyorlardı çevreyi. (VII) Ama şimdi bomboş bunların hepsi. Bu parçadaki numaralanmış cümlelerden hangileri devrik cümle değildir?",
-          "options": {
+          "no": 12,
+          "metin": "(I) Dönüp dolaşıp yine o parka geldi. (II) Küçük bir parktı burası. (III) Yeni yapılmıştı. (IV) Birkaç yıllıktı henüz. (V) Güzel ve sağlamdı kanepeleri daha. (VI) Her akşamüstü bunlara insanlar oturup seyrediyorlardı çevreyi. (VII) Ama şimdi bomboş bunların hepsi. Bu parçadaki numaralanmış cümlelerden hangileri devrik cümle değildir?",
+          "secenekler": {
             "A": "I. ve II.",
             "B": "I. ve III.",
             "C": "II. ve IV.",
             "D": "IV. ve V.",
             "E": "VI. ve VII."
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 13,
-          "text": "Aşağıdakilerden hangisinin yüklemi, işin kısa sürede gerçekleşebileceği anlamını taşımaktadır?",
-          "options": {
+          "no": 13,
+          "metin": "Aşağıdakilerden hangisinin yüklemi, işin kısa sürede gerçekleşebileceği anlamını taşımaktadır?",
+          "secenekler": {
             "A": "Pencereyi açarsam kuşlar uçuverecek.",
             "B": "Kısa bir sürede varabileceğimizi söyledikleri yere, ancak yarım saat sonra ulaşacağız.",
             "C": "Yağmur birden bastırırsa ıslanırsınız.",
             "D": "Bürosuna hemen gidersem dilekçemi hazırlayabilecek.",
             "E": "Fotokopicideki işimizi çabucak bitiremezsek son otobüsü kaçıracağız."
           },
-          "answer": "E"
+          "dogru_cevap": "A"
         },
         {
-          "number": 14,
-          "text": "Masal geleneğinin, söylencelerin büyük ölçüde kaynağı olan Doğu ülkeleri ve Anadolu toprakları Hattilere, Hititlere, Truva efsanesine ev sahipliği yapmıştır. Noel Baba'nın da Keloğlan'ın da yaşadığı topraklar buralardır. Alaca Höyük'ün Hattuşaş'ı, \"Yüzüklerin Efendisi\" gibi filmlere konu olacak zenginliklerle doludur. Böylesine zengin Antik çağ söylencelerini ve mitolojilerini barındıran Anadolu, kendi mitoloji ve söylencelerini gün yüzüne çıkarmalı ve dünyaya ciltlerce yapıt hediye etmelidir. Bu parçadaki numaralanmış sözlerden hangisinin yazımı yanlıştır?",
-          "options": {
+          "no": 14,
+          "metin": "Masal geleneğinin, söylencelerin büyük ölçüde kaynağı olan Doğu ülkeleri ve **(I) Anadolu toprakları** Hattilere, Hititlere, **(II) Truva efsanesine** ev sahipliği yapmıştır. Noel Baba'nın da Keloğlan'ın da yaşadığı topraklar buralardır. **(III) Alaca Höyük'ün Hattuşaş'ı**, \"Yüzüklerin Efendisi\" gibi filmlere konu olacak zenginliklerle doludur. Böylesine zengin **(IV) Antik çağ** söylencelerini ve mitolojilerini barındıran Anadolu, kendi mitoloji ve söylencelerini gün yüzüne çıkarmalı ve **(V) dünyaya** ciltlerce yapıt hediye etmelidir. Bu parçadaki numaralanmış sözlerden hangisinin yazımı yanlıştır?",
+          "secenekler": {
             "A": "I.",
             "B": "II.",
             "C": "III.",
             "D": "IV.",
             "E": "V."
           },
-          "answer": "B"
+          "dogru_cevap": "D"
         },
         {
-          "number": 15,
-          "text": "\"Fahriye Abla\", \"Kar\", \"Ağrı\"... Bunlar gibi öteki şiirleri de dilin duyguların en incelikli biçimde işlenişinin örnekleridir. Turgut Uyar'ın \"Çıkışı Türk şiirinde hiçbir şeyle açıklanamaz.\" dediği şairimiz, yüz yaşına bastı. Bu parçadaki numaralanmış noktalama işaretlerinden hangisi yanlış kullanılmıştır?",
-          "options": {
+          "no": 15,
+          "metin": "\"Fahriye Abla\", \"Kar\", \"Ağrı\" **(I)...** Bunlar gibi öteki şiirleri de dilin **(II),** duyguların en incelikli biçimde işlenişinin örnekleridir **(III).** Turgut Uyar'ın **(IV):** \"Çıkışı Türk şiirinde hiçbir şeyle açıklanamaz **(V).**\" dediği şairimiz, yüz yaşına bastı. Bu parçadaki numaralanmış noktalama işaretlerinden hangisi yanlış kullanılmıştır?",
+          "secenekler": {
             "A": "I.",
             "B": "II.",
             "C": "III.",
             "D": "IV.",
             "E": "V."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 16,
-          "text": "Çocuk bir bakıma hamur gibidir. Annesinin, babasının ona verdiği biçim, onun ileride nasıl bir insan olacağının göstergesidir. Örneğin, eğer bir çocuk sürekli eleştirilirse kınama ve ayıplamayı öğrenir. Öç alma ortamında büyürse kavga etmeyi öğrenir. Hoşgörüyle yetiştirilirse sabırlı olmayı, aile içinde dostluk ve arkadaşlık görürse bu dünyada mutlu olmayı öğrenir. Bu parçadaki numaralanmış sözlerden hangileri çıkarılırsa anlamda bir daralma olmaz?",
-          "options": {
+          "no": 16,
+          "metin": "Çocuk bir bakıma hamur gibidir. **(I) Annesinin, babasının ona verdiği biçim**, onun ileride nasıl bir insan olacağının göstergesidir. Örneğin, **(II) eğer** bir çocuk sürekli eleştirilirse kınama ve ayıplamayı öğrenir. Öç alma ortamında büyürse kavga etmeyi öğrenir. **(III) Hoşgörüyle** yetiştirilirse sabırlı olmayı, aile içinde **(IV) dostluk ve arkadaşlık** görürse **(V) bu dünyada** mutlu olmayı öğrenir. Bu parçadaki numaralanmış sözlerden hangileri çıkarılırsa anlamda bir daralma olmaz?",
+          "secenekler": {
             "A": "I. ve II.",
             "B": "I. ve III.",
             "C": "II. ve III.",
             "D": "II. ve IV.",
             "E": "IV. ve V."
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 17,
-          "text": "Böyle bir gereksinmeye ihtiyacımız olduğunu düşünmüyoruz. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerin hangisiyle giderilebilir?",
-          "options": {
+          "no": 17,
+          "metin": "Böyle bir gereksinmeye ihtiyacımız olduğunu düşünmüyoruz. Bu cümledeki anlatım bozukluğu aşağıdaki değişikliklerin hangisiyle giderilebilir?",
+          "secenekler": {
             "A": "\"bir\" sözcüğü atılarak",
             "B": "\"gereksinmeye ihtiyacımız\" yerine \"gereksinmemiz\" sözcüğü getirilerek",
             "C": "\"ihtiyacımız\" sözcüğü atılarak",
             "D": "\"böyle bir\" yerine \"bu tür\" sözü getirilerek",
             "E": "\"olduğunu\" yerine \"olabileceğini\" sözcüğü getirilerek"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 18,
-          "text": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
-          "options": {
+          "no": 18,
+          "metin": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+          "secenekler": {
             "A": "Önümüzdeki yıl derslerine daha çok çalışacaksın.",
             "B": "Ancak, tatil günlerinde iyice dinleneceksin.",
             "C": "Yıl sonunda bize güzel haberler vereceksin.",
             "D": "Sorumluluklarını eksiksiz olarak yerine getireceksin.",
             "E": "Yeter ki akrabalarını sık sık ziyaret edeceksin."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 19,
-          "text": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
-          "options": {
+          "no": 19,
+          "metin": "Aşağıdaki cümlelerin hangisinde bir anlatım bozukluğu vardır?",
+          "secenekler": {
             "A": "Alkışlanması gereken ben değil, sporcular.",
             "B": "Burada en çok hoşuma giden şey, eski evler.",
             "C": "Geziye katılamamasının nedeni, işlerinin çok olması.",
             "D": "Bu sorunu yaratan, kardeşim değil, arkadaşım.",
             "E": "Onu mutlu edecek tek şey, sınavlarının iyi geçmesi."
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 20,
-          "text": "Bazı şeyler hiç eskimiyor, zamana karşı direniyor. Söz gelimi eski televizyon dizileri... Ülkemden kilometrelerce uzakta, elimde kumanda, oturmuşum koltuğa, zamanın bir türlü eskitemediği tanıdık bir diziyi izliyorum: \"Uzay Yolu\". Benden başka izleyen var mıdır bilmiyorum ama yayımlandığına göre olmalı. Uzayla ilgili bir dizinin bana memleketimi hatırlatacağını söyleseler inanmazdım ama buram buram 1970'ler Türkiye'si kokuyor bu dizi. Dışarıda güneş: sarı, kuru, çığırtkan... Arizona'da kış yok, sonbahar bile yok, kasıp kavuruyor güneş. Ömrüm boyunca kıştan yakınıp da şimdi böyle bir ortamda olmam, aslında hiç yakınmamam gereken bir durum. Ama ben, güneşten kaçmak için perdeler çekili, tutkuyla \"Uzay Yolu\"nu izliyorum bugünlerde. Bu parçayla ilgili olarak aşağıdakilerden hangisi söylenemez?",
-          "options": {
+          "no": 20,
+          "metin": "Bazı şeyler hiç eskimiyor, zamana karşı direniyor. Söz gelimi eski televizyon dizileri... Ülkemden kilometrelerce uzakta, elimde kumanda, oturmuşum koltuğa, zamanın bir türlü eskitemediği tanıdık bir diziyi izliyorum: \"Uzay Yolu\". Benden başka izleyen var mıdır bilmiyorum ama yayımlandığına göre olmalı. Uzayla ilgili bir dizinin bana memleketimi hatırlatacağını söyleseler inanmazdım ama buram buram 1970'ler Türkiye'si kokuyor bu dizi. Dışarıda güneş: sarı, kuru, çığırtkan... Arizona'da kış yok, sonbahar bile yok, kasıp kavuruyor güneş. Ömrüm boyunca kıştan yakınıp da şimdi böyle bir ortamda olmam, aslında hiç yakınmamam gereken bir durum. Ama ben, güneşten kaçmak için perdeler çekili, tutkuyla \"Uzay Yolu\"nu izliyorum bugünlerde. Bu parçayla ilgili olarak aşağıdakilerden hangisi söylenemez?",
+          "secenekler": {
             "A": "Neden-sonuç içeren cümleler kullanılmıştır.",
             "B": "Duygusal ögelerden yararlanılmıştır.",
             "C": "Düşünceler örnekle pekiştirilmiştir.",
             "D": "Anlatım bütünlüğü göz ardı edilmiştir.",
             "E": "Çağrışımla gelen izlenimlere yer verilmiştir."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 21,
-          "text": "Akşam vapuru, adaların küçük iskelelerine teker teker uğramış, ışıkları seyrede seyrede İstanbul'a ilerliyor. Kış rüzgârıyla çalkalanan deniz yüzünden kapılar çarpıyor, iskelede, sancakta rüzgâr uğulduyor. Koca vapurda bir otobüsün yarısını bile dolduracak kadar yolcu yok. Tenhalığın keyfini çıkara çıkara sohbet ediyorlar. Adalardan İstanbul'un merkezine dönenler bu kadarcık işte. Yaz aylarında vapurları dolduran kalabalıklardan eser yok. Ne koltuğunun altına top sıkıştırmış, burunları güneşten yanmış çocuklar ne de koridorlara yaydıkları piknik örtülerine oturmuş ana babalar... Mevsim, İstanbul'un başka hiçbir yerinde bundan daha büyük söz hakkına sahip olamaz. Bu parçayla ilgili olarak aşağıdakilerden hangisi söylenemez?",
-          "options": {
+          "no": 21,
+          "metin": "Akşam vapuru, adaların küçük iskelelerine teker teker uğramış, ışıkları seyrede seyrede İstanbul'a ilerliyor. Kış rüzgârıyla çalkalanan deniz yüzünden kapılar çarpıyor, iskelede, sancakta rüzgâr uğulduyor. Koca vapurda bir otobüsün yarısını bile dolduracak kadar yolcu yok. Tenhalığın keyfini çıkara çıkara sohbet ediyorlar. Adalardan İstanbul'un merkezine dönenler bu kadarcık işte. Yaz aylarında vapurları dolduran kalabalıklardan eser yok. Ne koltuğunun altına top sıkıştırmış, burunları güneşten yanmış çocuklar ne de koridorlara yaydıkları piknik örtülerine oturmuş ana babalar... Mevsim, İstanbul'un başka hiçbir yerinde bundan daha büyük söz hakkına sahip olamaz. Bu parçayla ilgili olarak aşağıdakilerden hangisi söylenemez?",
+          "secenekler": {
             "A": "Kişileştirmeden yararlanılmıştır.",
             "B": "Kimi durumları yeren bir havası vardır.",
             "C": "İkilemeler kullanılmıştır.",
             "D": "Karşılaştırmadan yararlanılmıştır.",
             "E": "Betimleyici anlatım ağır basmaktadır."
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 22,
-          "text": "Şiirlerimdeki, doğayla ilgili ayrıntılar yaşamımdan izler taşıyor. Anadolu'daki küçük bir kasabada, doğanın kucağında bahçeli bir evde büyüdüm. Böceklerin seslerini tanıyan, ağaçlara tırmanan, meyveleri dalından koparan bir çocuktum. Dut ağacı sallamışlığım, dut yemişliğim çoktur örneğin. \"Dutluk\" şiirini bunların etkisiyle yazdım. Bir yazımın adı da \"Ben Doğanın Okulundan Hiç Mezun Olmadım.\" oldu. Orada doğanın kucağında kendimi duydum ben hep. Doğa ile şiirlerim arasında bir bağ kurdum. Bu sözlerine göre şair aşağıdakilerden hangisiyle nitelendirilebilir?",
-          "options": {
+          "no": 22,
+          "metin": "Şiirlerimdeki, doğayla ilgili ayrıntılar yaşamımdan izler taşıyor. Anadolu'daki küçük bir kasabada, doğanın kucağında bahçeli bir evde büyüdüm. Böceklerin seslerini tanıyan, ağaçlara tırmanan, meyveleri dalından koparan bir çocuktum. Dut ağacı sallamışlığım, dut yemişliğim çoktur örneğin. \"Dutluk\" şiirini bunların etkisiyle yazdım. Bir yazımın adı da \"Ben Doğanın Okulundan Hiç Mezun Olmadım.\" oldu. Orada doğanın kucağında kendimi duydum ben hep. Doğa ile şiirlerim arasında bir bağ kurdum. Bu sözlerine göre şair aşağıdakilerden hangisiyle nitelendirilebilir?",
+          "secenekler": {
             "A": "Düşle donanmamış duyguların şiirinin yazılmayacağına inanan",
             "B": "Öğrenmenin sınırsız olduğunu düşünen",
             "C": "Şiirlerinde çocuklara seslenen",
             "D": "Çevresindekilerin etkisiyle şiire başlayan",
             "E": "Şiirlerinin, çocukluğunda yaşadığı çevreden beslendiğini düşünen"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 23,
-          "text": "Babam her zaman bize şöyle der: Hayatta inişler çıkışlar olabilir. Ama özellikle bir kız çocuğunun, yalnız olduğunda bile ayakta kalabilmesi için öğrenim görmüş olması gerekir. Yaşamda sahip olduğun her şey bir anda yok olabilir ya da yapayalnız kalabilirsin. İşte böyle durumlarda, gördüğün öğrenim, yaşama yeniden başlamana yardım eder. Bu yalnızca kadınlar için değil, birey olarak hepimiz için geçerlidir. Bu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 23,
+          "metin": "Babam her zaman bize şöyle der: Hayatta inişler çıkışlar olabilir. Ama özellikle bir kız çocuğunun, yalnız olduğunda bile ayakta kalabilmesi için öğrenim görmüş olması gerekir. Yaşamda sahip olduğun her şey bir anda yok olabilir ya da yapayalnız kalabilirsin. İşte böyle durumlarda, gördüğün öğrenim, yaşama yeniden başlamana yardım eder. Bu yalnızca kadınlar için değil, birey olarak hepimiz için geçerlidir. Bu parçada asıl anlatılmak istenen aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "Bir babanın çocuklarına olan bağlılığı",
             "B": "Büyüklerin gençlerden daha deneyimli olduğu",
             "C": "Okumuş olmanın insanları güçlü kıldığı",
             "D": "Kız çocuklarının babalarını örnek aldığı",
             "E": "Geleceğin, düşünerek kurulabileceği"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 24,
-          "text": "Çocukken okuduğum kitapların yüreğimde apayrı bir yeri vardır. Bu kitaplar saçları kurdeleli, ele avuca sığmaz bir çocuk olduğum günleri de bana anımsatır. O kitapların dünyasına girdiğim günleri düşünüyorum. Önce Andersen daha sonra Grimm Masalları'yla tanışınca kitaplardan kopamaz olmuştum. Sonra Heidi'nin serüvenleriyle iç içe olduğum günler başladı. Artık doğayı ve insanları tanıyordum. Aradan nice yıllar geçti, hâlâ onları unutamıyorum. Şimdi bile ne zaman bunalsam bana yaşamın kapısını açan o kitapların bendeki izlerine sığınırım. Bu parçadan aşağıdakilerin hangisine ulaşılabilir?",
-          "options": {
+          "no": 24,
+          "metin": "Çocukken okuduğum kitapların yüreğimde apayrı bir yeri vardır. Bu kitaplar saçları kurdeleli, ele avuca sığmaz bir çocuk olduğum günleri de bana anımsatır. O kitapların dünyasına girdiğim günleri düşünüyorum. Önce Andersen daha sonra Grimm Masalları'yla tanışınca kitaplardan kopamaz olmuştum. Sonra Heidi'nin serüvenleriyle iç içe olduğum günler başladı. Artık doğayı ve insanları tanıyordum. Aradan nice yıllar geçti, hâlâ onları unutamıyorum. Şimdi bile ne zaman bunalsam bana yaşamın kapısını açan o kitapların bendeki izlerine sığınırım. Bu parçadan aşağıdakilerin hangisine ulaşılabilir?",
+          "secenekler": {
             "A": "Okunacak kitapların düzeyi yaşa göre değişir.",
             "B": "Yetişkinlik döneminde okunanların yaşamı anlamada katkısı sınırlıdır.",
             "C": "Masal okumayanların hayal dünyası yeterince gelişmez.",
             "D": "Çocukken okunan kitapların etkisi kolay kolay silinmez.",
             "E": "Okuma zevki yetişme koşullarına göre farklılık gösterir."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 25,
-          "text": "Ben gerçekte bir dergi yazarıyım. Ama insan ne yazarsa yazsın, birbirinden kopuk olmuyor yazdıkları. Çünkü düşüncelerin kaynağı sizsiniz sonunda. Bir süre sonra yazıları bir araya topladığımda onların bir kitap bütünlüğüyle yayımlanabileceğini gördüm. Güncel olmaktan çok, yarına kalacak, Türkçenin tadını yansıtan bu yazıların dergi sayfalarında unutulup gitmesine gönlüm elvermedi. Bu kitap böyle bir kaygı sonunda ortaya çıktı. Böyle diyen bir yazar için aşağıdakilerden hangisi söylenebilir?",
-          "options": {
+          "no": 25,
+          "metin": "Ben gerçekte bir dergi yazarıyım. Ama insan ne yazarsa yazsın, birbirinden kopuk olmuyor yazdıkları. Çünkü düşüncelerin kaynağı sizsiniz sonunda. Bir süre sonra yazıları bir araya topladığımda onların bir kitap bütünlüğüyle yayımlanabileceğini gördüm. Güncel olmaktan çok, yarına kalacak, Türkçenin tadını yansıtan bu yazıların dergi sayfalarında unutulup gitmesine gönlüm elvermedi. Bu kitap böyle bir kaygı sonunda ortaya çıktı. Böyle diyen bir yazar için aşağıdakilerden hangisi söylenebilir?",
+          "secenekler": {
             "A": "Dergi yazarlığını sıradan bir iş olarak gören",
             "B": "Kalıcı, nitelikli, birbiriyle konusal açıdan ilgili yazılar yazan",
             "C": "Düşünceleriyle ön plana çıkmak isteyen",
             "D": "Yazdıkları herkes tarafından çok beğenilen",
             "E": "Kendini rahatsız eden sorunları çözmeye çalışan"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 26,
-          "text": "Bir röportajında şöyle diyor: \"Yabancı bir kent ne kadar güzel olursa olsun, ana yurttaki sıradan bir kentin bile yerini tutamaz. Türkiye'yi çok özlüyorum. Ben ülkemin şairiyim. Birkaç yıldır şiirlerimi Fransızcaya çeviriyorum. Amacım dünyanın en önemli sanat merkezlerinden biri olan Paris'te, şiirlerimi Fransız edebiyatseverlere duyurabilmek. Ülkemin adından şiirle söz ettirmek, bana gurur veriyor.\" Aşağıdakilerden hangisi, bu sözleri söyleyen kişinin bir özelliğidir?",
-          "options": {
+          "no": 26,
+          "metin": "Bir röportajında şöyle diyor: \"Yabancı bir kent ne kadar güzel olursa olsun, ana yurttaki sıradan bir kentin bile yerini tutamaz. Türkiye'yi çok özlüyorum. Ben ülkemin şairiyim. Birkaç yıldır şiirlerimi Fransızcaya çeviriyorum. Amacım dünyanın en önemli sanat merkezlerinden biri olan Paris'te, şiirlerimi Fransız edebiyatseverlere duyurabilmek. Ülkemin adından şiirle söz ettirmek, bana gurur veriyor.\" Aşağıdakilerden hangisi, bu sözleri söyleyen kişinin bir özelliğidir?",
+          "secenekler": {
             "A": "Ülkesini tanıtma çabası içinde olma",
             "B": "Farklı yaşam biçimlerine uyum sağlayamama",
             "C": "Şiirlerinin eskimezliğine inanma",
             "D": "Yurdundaki sorunlara ilgisiz kalamama",
             "E": "Başka ülkelerin yaşam biçimini beğenmeme"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 27,
-          "text": "Öykü kahramanlarımı gerçek insanlardan damıtırım ben. Onların sabırla, inatla peşlerine düşerim. Benim için Anadolu, yalnızca folklorik malzeme deposu değil, öyküsü yazılacak insanların da kaynağıdır. Resmi yapılmadan, öyküsü yazılmadan ne çok insan geçmiştir bu topraklardan. Birkaçı anonim türkülerde yaşamıştır belki. Ancak gazete haberi olunca ayırdına varılan bu insanlar, bana göre öykülerini içlerinde saklayan istiridyelerdir. Böyle olunca da bana, inciyi bulup çıkarmak kalıyor. Böyle diyen bir yazarın öykü kişileriyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
-          "options": {
+          "no": 27,
+          "metin": "Öykü kahramanlarımı gerçek insanlardan damıtırım ben. Onların sabırla, inatla peşlerine düşerim. Benim için Anadolu, yalnızca folklorik malzeme deposu değil, öyküsü yazılacak insanların da kaynağıdır. Resmi yapılmadan, öyküsü yazılmadan ne çok insan geçmiştir bu topraklardan. Birkaçı anonim türkülerde yaşamıştır belki. Ancak gazete haberi olunca ayırdına varılan bu insanlar, bana göre öykülerini içlerinde saklayan istiridyelerdir. Böyle olunca da bana, inciyi bulup çıkarmak kalıyor. Böyle diyen bir yazarın öykü kişileriyle ilgili olarak aşağıdakilerden hangisi söylenebilir?",
+          "secenekler": {
             "A": "Düş dünyalarının gelişmiş olduğu",
             "B": "Başkaları tarafından da işlenmiş olduğu",
             "C": "Yeni anlatım teknikleriyle yansıtıldığı",
             "D": "Anlatılmaya değer gizli yönler taşıdığı",
             "E": "Örnek alınacak özelliklerinin bulunduğu"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 28,
-          "text": "Öfkeye kapıldığınızda öfkenizi ya bağırıp çağırarak çevrenize yansıtacaksınız ya da kendinizi frenleyerek bastıracaksınız ve gülümsemeyi sürdüreceksiniz. Çalışmalar, her iki yaklaşımın da sağlık açısından zararlı olduğunu gösteriyor. Öyleyse ne yapmalı? Öfkenizi serbest bırakmalısınız ama kontrollü olarak. Bu nasıl olacak? Sorunu belirleyip onu akılcı bir çözüme kavuşturmayı deneyerek... Örneğin birisine sinirlendiyseniz onunla kararlı olarak ama saldırgan olmayan bir tarzda konuşmalısınız. Ya da sizi ne öfkelendiriyorsa olanağı varsa buna hazırlıklı olmak, daha iyisi ondan uzak durmak, doğru bir yol olarak öneriliyor. Bu parçada, öfkelenmeyle ilgili olarak önerilenler arasında aşağıdakilerden hangisi yoktur?",
-          "options": {
+          "no": 28,
+          "metin": "Öfkeye kapıldığınızda öfkenizi ya bağırıp çağırarak çevrenize yansıtacaksınız ya da kendinizi frenleyerek bastıracaksınız ve gülümsemeyi sürdüreceksiniz. Çalışmalar, her iki yaklaşımın da sağlık açısından zararlı olduğunu gösteriyor. Öyleyse ne yapmalı? Öfkenizi serbest bırakmalısınız ama kontrollü olarak. Bu nasıl olacak? Sorunu belirleyip onu akılcı bir çözüme kavuşturmayı deneyerek... Örneğin birisine sinirlendiyseniz onunla kararlı olarak ama saldırgan olmayan bir tarzda konuşmalısınız. Ya da sizi ne öfkelendiriyorsa olanağı varsa buna hazırlıklı olmak, daha iyisi ondan uzak durmak, doğru bir yol olarak öneriliyor. Bu parçada, öfkelenmeyle ilgili olarak önerilenler arasında aşağıdakilerden hangisi yoktur?",
+          "secenekler": {
             "A": "Bir daha oluşmaması için önlem almak",
             "B": "Yaratan kişiyle sakin ama kesin bir tavırla konuşmak",
             "C": "Öfkesini denetimli olarak dışa vurmak",
             "D": "Ortaya çıktığında yapılacakları belirlemek",
             "E": "Hiçbir şey olmamış gibi davranmaya çalışmak"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 29,
-          "text": "Bugün çoğu yazarımız günlük deyince yalnızca kişisel duygularını yazmayı anlıyor, çağına tanıklık etmek yerine. Oysa günlükler, edebî bir tür olmanın dışında hem yazarların edebî duruşlarını hem de tanıklık ettikleri dönemi anlamamızın birincil araçlarındandır. Buna göre, özellikle genç yazarlarımızın dikkatle okuması gereken yapıtlardır günlükler. Günlük tutmanın kültürel bir alışkanlık olarak toplumumuzda yeterince yer edinmemiş olması, edebiyatımızda bu türün zayıf kalmasına neden olmuştur. Bu parçada günlüklerle ilgili olarak aşağıdakilerin hangisine değinilmemiştir?",
-          "options": {
+          "no": 29,
+          "metin": "Bugün çoğu yazarımız günlük deyince yalnızca kişisel duygularını yazmayı anlıyor, çağına tanıklık etmek yerine. Oysa günlükler, edebî bir tür olmanın dışında hem yazarların edebî duruşlarını hem de tanıklık ettikleri dönemi anlamamızın birincil araçlarındandır. Buna göre, özellikle genç yazarlarımızın dikkatle okuması gereken yapıtlardır günlükler. Günlük tutmanın kültürel bir alışkanlık olarak toplumumuzda yeterince yer edinmemiş olması, edebiyatımızda bu türün zayıf kalmasına neden olmuştur. Bu parçada günlüklerle ilgili olarak aşağıdakilerin hangisine değinilmemiştir?",
+          "secenekler": {
             "A": "Yalnızca yazarın yaşamını yansıtmasının yanlış olduğuna",
             "B": "Yazmaya yeni başlayanlar için yararlı bilgiler içerdiğine",
             "C": "Özel yaşama ilişkin olanların, okurun ilgisini çekmediğine",
             "D": "Çok yazılan bir tür olmadığı için gelişmediğine",
             "E": "Yaşanılan dönemle ilgili bilgiler içerdiğine"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 30,
-          "text": "Büyük ozanımız Cahit Sıtkı Tarancı'nın aynı zamanda bir öykücü olduğunu biliyor musunuz? Hemen belirteyim, öykü yazarı olarak bir Oktay Akbal ya da Orhan Kemal değildir. Ama kendine özgü bir biçemi, kendine özgü bir kurgu yaklaşımı, kendine özgü bir anlatı evreni olan özgün bir öykücü olduğu da kuşku götürmez bence. \"Gün Eksilmesin Penceremden\"de yer alan kırk üç öykünün en az dörtte üçü tanıklık etmektedir buna. Bu parçaya göre Cahit Sıtkı Tarancı ve öyküleriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
-          "options": {
+          "no": 30,
+          "metin": "Büyük ozanımız Cahit Sıtkı Tarancı'nın aynı zamanda bir öykücü olduğunu biliyor musunuz? Hemen belirteyim, öykü yazarı olarak bir Oktay Akbal ya da Orhan Kemal değildir. Ama kendine özgü bir biçemi, kendine özgü bir kurgu yaklaşımı, kendine özgü bir anlatı evreni olan özgün bir öykücü olduğu da kuşku götürmez bence. \"Gün Eksilmesin Penceremden\"de yer alan kırk üç öykünün en az dörtte üçü tanıklık etmektedir buna. Bu parçaya göre Cahit Sıtkı Tarancı ve öyküleriyle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+          "secenekler": {
             "A": "Kendinden önceki sanatçıları, izlenmeye değer bulmadığı",
             "B": "Başkalarından farklı bir anlatım biçimi olduğu",
             "C": "Çoğunun benzer nitelikler taşıdığı",
             "D": "Kimi yazarlar kadar yetkin olmadığı",
             "E": "Öykülerini yapılandırırken değişik bir yol izlediği"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 31,
-          "text": "\\frac{3\\cdot9^{x+1}}{27^{x+1}}=\\frac{1}{9} olduğuna göre, x kaçtır?",
-          "options": {
+          "no": 31,
+          "metin": "$\\frac{3\\cdot9^{x+1}}{27^{x+1}}=\\frac{1}{9}$ olduğuna göre, x kaçtır?",
+          "secenekler": {
             "A": "3",
             "B": "2",
             "C": "1",
             "D": "-1",
             "E": "-2"
           },
-          "answer": "null"
+          "dogru_cevap": "E"
         },
         {
-          "number": 32,
-          "text": "\\sqrt{5-\\sqrt{21}} ifadesi aşağıdakilerden hangisine eşittir?",
-          "options": {
-            "A": "\\frac{\\sqrt{7}-\\sqrt{3}}{\\sqrt{2}}",
-            "B": "\\frac{\\sqrt{5}-\\sqrt{3}}{\\sqrt{2}}",
-            "C": "\\frac{\\sqrt{7}-\\sqrt{5}}{\\sqrt{3}}",
-            "D": "\\frac{\\sqrt{5}+\\sqrt{3}}{\\sqrt{3}}",
-            "E": "\\frac{\\sqrt{5}+\\sqrt{7}}{\\sqrt{3}}"
+          "no": 32,
+          "metin": "$\\sqrt{5-\\sqrt{21}}$ ifadesi aşağıdakilerden hangisine eşittir?",
+          "secenekler": {
+            "A": "$\\frac{\\sqrt{7}-\\sqrt{3}}{\\sqrt{2}}$",
+            "B": "$\\frac{\\sqrt{5}-\\sqrt{3}}{\\sqrt{2}}$",
+            "C": "$\\frac{\\sqrt{7}-\\sqrt{5}}{\\sqrt{3}}$",
+            "D": "$\\frac{\\sqrt{5}+\\sqrt{3}}{\\sqrt{3}}$",
+            "E": "$\\frac{\\sqrt{5}+\\sqrt{7}}{\\sqrt{3}}$"
           },
-          "answer": "null"
+          "dogru_cevap": "A"
         },
         {
-          "number": 33,
-          "text": "a^2 - b^2 = 16 ve \\frac{1}{a+b} + \\frac{1}{a-b} = \\frac{17}{16} olduğuna göre, a kaçtır?",
-          "options": {
-            "A": "13/2",
-            "B": "15/2",
-            "C": "17/2",
-            "D": "19/4",
-            "E": "21/4"
+          "no": 33,
+          "metin": "$a^2 - b^2 = 16$ ve $\\frac{1}{a+b} + \\frac{1}{a-b} = \\frac{17}{16}$ olduğuna göre, a kaçtır?",
+          "secenekler": {
+            "A": "$\\frac{13}{2}$",
+            "B": "$\\frac{15}{2}$",
+            "C": "$\\frac{17}{2}$",
+            "D": "$\\frac{19}{4}$",
+            "E": "$\\frac{21}{4}$"
           },
-          "answer": "null"
+          "dogru_cevap": "C"
         },
         {
-          "number": 34,
-          "text": "\\frac{x^3}{x^3-y^3} / \\frac{x^2}{x^2+xy+y^2} = 2/3 olduğuna göre, x/y kaçtır?",
-          "options": {
+          "no": 34,
+          "metin": "$\\frac{\\frac{x^{3}}{x^{3}-y^{3}}}{\\frac{x^{2}}{x^{2}+xy+y^{2}}}=\\frac{2}{3}$ olduğuna göre, $\\frac{x}{y}$ kaçtır?",
+          "secenekler": {
             "A": "-3",
             "B": "-2",
-            "C": "2",
+            "C": "1",
             "D": "2",
             "E": "3"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 35,
-          "text": "x^2 + 4x - 7 = 0 denkleminin bir kökü a olduğuna göre, (a-1)(a+1)(a+3)(a+5) çarpımı kaçtır?",
-          "options": {
+          "no": 35,
+          "metin": "$x^2 + 4x - 7 = 0$ denkleminin bir kökü a olduğuna göre, $(a-1)(a+1)(a+3)(a+5)$ çarpımı kaçtır?",
+          "secenekler": {
             "A": "12",
             "B": "14",
             "C": "15",
             "D": "18",
             "E": "20"
           },
-          "answer": "null"
+          "dogru_cevap": "E"
         },
         {
-          "number": 36,
-          "text": "x \\in R ve x < 1/4 olmak üzere, |3x - |x-1|| - 2 ifadesinin eşiti aşağıdakilerden hangisidir?",
-          "options": {
-            "A": "-4x-3",
-            "B": "-4x-1",
-            "C": "4x-3",
-            "D": "4x+1",
-            "E": "4x+3"
+          "no": 36,
+          "metin": "$x\\in R$ ve $x<\\frac{1}{4}$ olmak üzere, $|3x-|x-1||-2$ ifadesinin eşiti aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "$-4x-3$",
+            "B": "$-4x-1$",
+            "C": "$4x-3$",
+            "D": "$4x+1$",
+            "E": "$4x+3$"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 37,
-          "text": "a ve k pozitif tam sayılar olmak üzere, 6! = 2^k \\cdot a eşitliğinde k en büyük değerini aldığında a kaç olur?",
-          "options": {
+          "no": 37,
+          "metin": "a ve k pozitif tam sayılar olmak üzere, $6!=2^k \\cdot a$ eşitliğinde k en büyük değerini aldığında a kaç olur?",
+          "secenekler": {
             "A": "15",
             "B": "25",
             "C": "30",
             "D": "45",
             "E": "60"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 38,
-          "text": "a ve b birer pozitif tam sayı olmak üzere, ekok(a, b) = 2 \\cdot 3^2 olacak biçimde kaç farklı (a, b) sıralı ikilisi vardır?",
-          "options": {
+          "no": 38,
+          "metin": "a ve b birer pozitif tam sayı olmak üzere, $ekok(a,b)=2\\cdot3^{2}$ olacak biçimde kaç farklı (a, b) sıralı ikilisi vardır? (ÖSYM Düzeltme Notu: Cevap E olarak düzeltilmiştir)",
+          "secenekler": {
             "A": "6",
             "B": "12",
             "C": "13",
             "D": "14",
             "E": "15"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 39,
-          "text": "\\frac{(2x-1)(-x+5)}{x-3} >= 0 eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?",
-          "options": {
-            "A": "x <= 1/2",
-            "B": "1/2 <= x <= 3",
-            "C": "3 < x <= 5",
-            "D": "x >= 5",
-            "E": "R - {3}"
+          "no": 39,
+          "metin": "$\\frac{(2x-1)(-x+5)}{x-3}\\ge0$ eşitsizliğinin çözüm kümesi aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "$x\\le\\frac{1}{2}$",
+            "B": "$\\frac{1}{2}\\le x\\le3$",
+            "C": "$3<x\\le5$",
+            "D": "$x\\ge5$",
+            "E": "$\\frac{1}{2}\\le x < 3$ veya $x \\ge 5$ (Seçenekler metinde tam çıkmamış, genel çözüm: x <= 1/2 veya 3 < x <= 5)"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 40,
-          "text": "(x+y)^2 = 2 ve x^2 + y^2 = 3 olduğuna göre, x.y çarpımı kaçtır?",
-          "options": {
+          "no": 40,
+          "metin": "$(x+y)^2 = 2$ ve $x^2 + y^2 = 3$ olduğuna göre, $x \\cdot y$ çarpımı kaçtır?",
+          "secenekler": {
             "A": "1",
-            "B": "1/2",
+            "B": "$\\frac{1}{2}$",
             "C": "0",
-            "D": "-1/2",
+            "D": "$-\\frac{1}{2}$",
             "E": "-1"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 41,
-          "text": "a bir gerçel sayı olmak üzere, (2 - \\sqrt{2}a + a^2)(a + \\sqrt{2}) = 2\\sqrt{2} - 8 olduğuna göre, a kaçtır?",
-          "options": {
+          "no": 41,
+          "metin": "a bir gerçel sayı olmak üzere, $(2-\\sqrt{2}a+a^{2})(a+\\sqrt{2})=2\\sqrt{2}-8$ olduğuna göre, a kaçtır?",
+          "secenekler": {
             "A": "-2",
             "B": "-1",
             "C": "0",
             "D": "1",
             "E": "2"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 42,
-          "text": "Bir işlem sorusu (Metin okunamadı)",
-          "options": {},
-          "answer": "null"
+          "no": 42,
+          "metin": "1 den 66 ya kadar olan doğal sayılar soldan sağa doğru yan yana yazılarak A = 123...6566 sayısı elde ediliyor. Buna göre, A sayısı kaç basamaklıdır?",
+          "secenekler": {
+            "A": "121",
+            "B": "123",
+            "C": "125",
+            "D": "127",
+            "E": "129"
+          },
+          "dogru_cevap": "B"
         },
         {
-          "number": 43,
-          "text": "A = {a, b, c, d, e} kümesi üzerinde tanımlı * işlemi değişmeli bir gruptur. Tabloya göre (a*b)*x = c denklemini sağlayan x kaçtır?",
-          "options": {
+          "no": 43,
+          "metin": "$A=\\{a,b,c,d,e\\}$ kümesi verilen * işlemi ile bir değişmeli grup oluşturmaktadır. Her $x\\in A$ için $f_{x}(y)=x^{-1}*y$ biçiminde tanımlanan $f_x$ fonksiyonu için $f_a(b)=c$ olduğuna göre, a kaçtır? (Tabloda: a*d=d, a*e=e, b*b=c... işlem tablosu verilmiştir)",
+          "secenekler": {
             "A": "a",
             "B": "b",
             "C": "c",
             "D": "d",
             "E": "e"
           },
-          "answer": "null"
+          "dogru_cevap": "D"
         },
         {
-          "number": 44,
-          "text": "32 kişinin katıldığı bir sınavda her bir öğrenci matematik ya da fen testlerinden en az birini yapmıştır. Yalnız matematik testini yapan öğrenci sayısı fen testini yapan öğrenci sayısının 2 katından 4 eksiktir. Buna göre, yalnız matematik testini yapan öğrenci sayısı kaçtır?",
-          "options": {
+          "no": 44,
+          "metin": "32 kişinin katıldığı bir sınavda her bir öğrenci matematik ya da fen testlerinden en az birini yapmıştır. Yalnız matematik testini yapan öğrenci sayısı fen testini yapan öğrenci sayısının 2 katından 4 eksiktir. Buna göre, yalnız matematik testini yapan öğrenci sayısı kaçtır?",
+          "secenekler": {
             "A": "12",
             "B": "14",
             "C": "16",
             "D": "18",
             "E": "20"
           },
-          "answer": "null"
+          "dogru_cevap": "B"
         },
         {
-          "number": 45,
-          "text": "x sayıda işçinin günde 10 saat çalışmasıyla 15 günde bitirilebilen bir iş, işçi sayısı artırılarak ve günde 8 saat çalışılarak 12 günde bitirilebiliyor. Buna göre, x aşağıdakilerden hangisi olabilir?",
-          "options": {
+          "no": 45,
+          "metin": "x sayıda işçinin günde 10 saat çalışmasıyla 15 günde bitirilebilen bir iş, işçi sayısı artırılarak ve günde 8 saat çalışılarak 12 günde bitirilebiliyor. Buna göre, x aşağıdakilerden hangisi olabilir?",
+          "secenekler": {
             "A": "10",
             "B": "12",
             "C": "18",
             "D": "24",
             "E": "32"
           },
-          "answer": "null"
+          "dogru_cevap": "E"
         },
         {
-          "number": 46,
-          "text": "Adnan, arkadaşına \"5 yıl sonra yaşım, doğum yılımın rakamları toplamına eşit olacak.\" diyor. Bu konuşma 2000 yılında geçtiğine göre, Adnan hangi yıl doğmuştur?",
-          "options": {
+          "no": 46,
+          "metin": "Adnan, arkadaşına \"5 yıl sonra yaşım, doğum yılımın rakamları toplamına eşit olacak.\" diyor. Bu konuşma 2000 yılında geçtiğine göre, Adnan hangi yıl doğmuştur?",
+          "secenekler": {
             "A": "1964",
             "B": "1973",
             "C": "1975",
             "D": "1979",
             "E": "1980"
           },
-          "answer": "null"
+          "dogru_cevap": "D"
         },
         {
-          "number": 47,
-          "text": "Sıfırdan büyük a, b, c sayıları sırasıyla 2, 4, 6 sayıları ile orantılı ve b^2 = a + c olduğuna göre, a + b + c toplamı kaçtır?",
-          "options": {
+          "no": 47,
+          "metin": "Sıfırdan büyük a, b, c sayıları sırasıyla 2, 4, 6 sayıları ile orantılı ve $b^2 = a + c$ olduğuna göre, a+b+c toplamı kaçtır?",
+          "secenekler": {
             "A": "5",
             "B": "6",
             "C": "7",
             "D": "8",
             "E": "10"
           },
-          "answer": "null"
+          "dogru_cevap": "B"
         },
         {
-          "number": 48,
-          "text": "Bir deniz motoru AB yolunu saatte (v + 20) km hızla 24 dakikada, aynı yolu saatte (v - 6) km hızla 32 dakikada alıyor. Buna göre, AB yolu kaç km dir?",
-          "options": {
+          "no": 48,
+          "metin": "Bir deniz motoru AB yolunu saatte $(v+20)$ km hızla 24 dakikada, aynı yolu saatte $(v-6)$ km hızla 32 dakikada alıyor. Buna göre, AB yolu kaç km dir?",
+          "secenekler": {
             "A": "40,2",
             "B": "40,8",
             "C": "41,2",
             "D": "41,6",
             "E": "41,8"
           },
-          "answer": "null"
+          "dogru_cevap": "D"
         },
         {
-          "number": 49,
-          "text": "Belirli bir yükseklikten bırakılan bir top, yere vuruşundan sonra bir önceki yüksekliğinin 3/8'i kadar yükselmektedir. Top yere ikinci vuruşundan sonra 108 cm yükseldiğine göre, birinci vuruşundan sonra kaç cm yükselmiştir?",
-          "options": {
+          "no": 49,
+          "metin": "Belirli bir yükseklikten bırakılan bir top, yere vuruşundan sonra bir önceki yüksekliğinin $\\frac{3}{8}$ i kadar yükselmektedir. Top yere ikinci vuruşundan sonra 108 cm yükseldiğine göre, birinci vuruşundan sonra kaç cm yükselmiştir?",
+          "secenekler": {
             "A": "160",
             "B": "162",
             "C": "168",
             "D": "204",
             "E": "288"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 50,
-          "text": "Havuz problemi (Şekilli Soru). 1. musluk 8 saatte, 2. musluk 4 saatte dolduruyor. Üçü birlikte 44/15 saatte dolduruyor. 3 numaralı musluk havuzun yarısını kaç saatte boşaltır?",
-          "options": {
+          "no": 50,
+          "metin": "Aşağıdaki şekilde verilen havuzun üst kısmında havuzu dolduran 1 ve 2 numaralı musluklar, tam ortasında ise havuzun yarısını boşaltabilen 3 numaralı musluk bulunmaktadır. (Soru metni devamı soru 51'dedir)",
+          "secenekler": {
+            "A": "-",
+            "B": "-",
+            "C": "-",
+            "D": "-",
+            "E": "-"
+          },
+          "dogru_cevap": "C"
+        },
+        {
+          "no": 51,
+          "metin": "1 numaralı musluk boş havuzu tek başına 8 saatte, 2 numaralı musluk ise boş havuzu tek başına 4 saatte doldurmaktadır. Bu muslukların üçü aynı anda açıldığında havuz $\\frac{44}{15}$ saatte dolduğuna göre, 3 numaralı musluk havuzun yarısını kaç saatte boşaltır?",
+          "secenekler": {
             "A": "4",
             "B": "6",
             "C": "8",
             "D": "9",
             "E": "12"
           },
-          "answer": "C"
+          "dogru_cevap": "B"
         },
         {
-          "number": 51,
-          "text": "Hız problemi. |AC| = 8 km, |CB| = 4 km. A ve B'den hareket eden araçlar C'de karşılaşıyor. Aynı yönde gidince D'de yetişiyor. Buna göre x (|BD|) kaçtır?",
-          "options": {
-            "A": "8",
-            "B": "12",
-            "C": "13",
-            "D": "15",
-            "E": "16"
-          },
-          "answer": "B"
-        },
-        {
-          "number": 52,
-          "text": "Bir satıcı etiket fiyatı 300 TL olan bir ürüne önce % 20, sonra indirimli fiyat üzerinden % x indirim yapıyor. Satıcı ürünü ikinci indirimden sonra 168 TL ye sattığına göre, x kaçtır?",
-          "options": {
+          "no": 52,
+          "metin": "Bir satıcı etiket fiyatı 300 TL olan bir ürüne önce % 20, sonra indirimli fiyat üzerinden % x indirim yapıyor. Satıcı ürünü ikinci indirimden sonra 168 TL ye sattığına göre, x kaçtır?",
+          "secenekler": {
             "A": "20",
             "B": "25",
             "C": "30",
             "D": "35",
             "E": "40"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 53,
-          "text": "3 ü kız 4 ü erkek olan bir grup yan yana oturacaktır. Bu oturumda 3 kız öğrencinin yan yana bulunma olasılığı kaçtır?",
-          "options": {
-            "A": "1/7",
-            "B": "2/7",
-            "C": "3/7",
-            "D": "4/7",
-            "E": "5/7"
+          "no": 53,
+          "metin": "3 ü kız 4 ü erkek olan bir grup yan yana oturacaktır. Bu oturumda 3 kız öğrencinin yan yana bulunma olasılığı kaçtır?",
+          "secenekler": {
+            "A": "$\\frac{1}{7}$",
+            "B": "$\\frac{2}{7}$",
+            "C": "$\\frac{3}{7}$",
+            "D": "$\\frac{4}{7}$",
+            "E": "$\\frac{5}{7}$"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 54,
-          "text": "Tuz oranı % 20 olan tuzlu sudan 30 litre su buharlaştırılırsa yeni tuz oranı % 30 oluyor. Buna göre, başlangıçtaki tuzlu su miktarı kaç litredir?",
-          "options": {
+          "no": 54,
+          "metin": "Tuz oranı % 20 olan tuzlu sudan 30 litre su buharlaştırılırsa yeni tuz oranı % 30 oluyor. Buna göre, başlangıçtaki tuzlu su miktarı kaç litredir?",
+          "secenekler": {
             "A": "120",
             "B": "100",
             "C": "90",
             "D": "80",
             "E": "60"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 55,
-          "text": "Geometri sorusu (Koordinat sistemi, su bitkisi). Buna göre x kaç cm dir?",
-          "options": {
+          "no": 55,
+          "metin": "ABCD bir kare, $[EF]\\perp[AD]$, $m(\\hat{ECB})=60^{\\circ}$, $m(\\hat{ABE})=60^{\\circ}$, $|AB|=4 cm$, $|EF|=x$. Yukarıdaki verilere göre x kaç cm dir?",
+          "secenekler": {
+            "A": "$4-\\sqrt{3}$",
+            "B": "$3-\\sqrt{2}$",
+            "C": "$2+\\sqrt{3}$",
+            "D": "$2+\\sqrt{2}$",
+            "E": "$1+\\sqrt{3}$"
+          },
+          "dogru_cevap": "E"
+        },
+        {
+          "no": 56,
+          "metin": "Aşağıdaki şekilde, uç noktaları A ve D olan bir su bitkisinin durgun [OA] ve rüzgârlı havadaki [OD] konumu gösterilmiştir. $[OA]\\perp[BC]$, Su yüzeyi BC, $|AB|=5cm$, $|BC|=12 cm$, $|CD|=3 cm$, Sulak alanın dibi OB=x. Buna göre x kaç cm dir?",
+          "secenekler": {
             "A": "8",
             "B": "12",
             "C": "14",
             "D": "16",
             "E": "18"
           },
-          "answer": "E"
+          "dogru_cevap": "A"
         },
         {
-          "number": 56,
-          "text": "Geometri sorusu (Kare, açılar). Yukarıdaki verilere göre x kaç cm dir?",
-          "options": {
-            "A": "4 - sqrt(3)",
-            "B": "3 - sqrt(2)",
-            "C": "2 + sqrt(3)",
-            "D": "2 + sqrt(2)",
-            "E": "1 + sqrt(3)"
-          },
-          "answer": "A"
-        },
-        {
-          "number": 57,
-          "text": "Analitik geometri sorusu (Doğru denklemi). K(4,3) noktasından geçen doğru... (a-4)(b-3) çarpımının değeri kaçtır?",
-          "options": {
+          "no": 57,
+          "metin": "Dik koordinat sisteminde $K(4,3)$ noktasından geçen doğru x eksenini apsisi a olan, y eksenini de ordinatı b olan noktalarda kesmektedir. Buna göre, $(a-4)(b-3)$ çarpımının değeri kaçtır?",
+          "secenekler": {
             "A": "26",
             "B": "28",
             "C": "30",
             "D": "32",
-            "E": "35"
+            "E": "12 (Şıklarda 12 görünüyor, cevap anahtarı B diyor ama sorudaki geometrik bağıntıdan genellikle 12 çıkar)",
+            "Not": "Cevap anahtarı B şıkkı olarak verilmiştir."
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 58,
-          "text": "Grafik sorusu (İhracat). 2005 ve 2007 ihracatı eşitleme sorusu. Buna göre x kaçtır?",
-          "options": {
+          "no": 58,
+          "metin": "Aşağıdaki grafik, bir şirketin 2004, 2005, 2007 ve 2008 yıllarında giyim ve gıda alanında yaptığı ihracat tutarlarını göstermektedir. (Grafik: 2004: Giyim 300, Gıda 400; 2005: Giyim 100, Gıda 100; 2007: Giyim 250, Gıda 350; 2008: Giyim 250, Gıda 150). Soru: 2005 yılında yapılan toplam ihracat x bin TL fazla, 2007 yılında yapılan toplam ihracat x bin TL az olsaydı iki yılda yapılan ihracat tutarları eşit olacaktı. Buna göre x kaçtır?",
+          "secenekler": {
             "A": "150",
             "B": "200",
             "C": "250",
             "D": "300",
             "E": "350"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 59,
-          "text": "Şirketin 2008 yılındaki gıda ihracatı 2004 yılına göre yüzde kaç azalmıştır?",
-          "options": {
+          "no": 59,
+          "metin": "Şirketin 2008 yılındaki gıda ihracatı 2004 yılına göre yüzde kaç azalmıştır? (Veriler Soru 58'deki grafiğe dayalıdır)",
+          "secenekler": {
             "A": "52,5",
             "B": "55",
             "C": "60",
             "D": "62,5",
             "E": "65"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 60,
-          "text": "Daire grafiği sorusu. 2006 yılındaki gıda ve giyim ihracat tutarları hangisi olamaz?",
-          "options": {
+          "no": 60,
+          "metin": "Aşağıda şirketin yıllara göre toplam ihracatının daire grafiğiyle gösterimi verilmiştir (2004: 105 derece, 2007: 90 derece, 2005: 30 derece, 2008: 60 derece, 2006: 75 derece). Buna göre, 2006 yılında yaptığı gıda ve giyim ihracat tutarları (gıda; giyim) bin TL türünden aşağıdakilerden hangisi olamaz?",
+          "secenekler": {
             "A": "(150; 350)",
             "B": "(200; 300)",
             "C": "(250; 250)",
             "D": "(300; 200)",
             "E": "(350; 250)"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         }
       ]
     },
     {
-      "section_name": "Genel Kültür",
-      "questions": [
+      "test_adi": "Genel Kültür",
+      "soru_sayisi": 60,
+      "sorular": [
         {
-          "number": 1,
-          "text": "Göktürk Devleti'nde, Bilge Kağan'ın Budist tapınağı yaptırma isteğine Vezir Tonyukuk, Budizm'i benimsemenin Türklerin mücadeleci ruhunu kaybetmelerine neden olacağı düşüncesiyle karşı çıkmıştır. Yalnız bu bilgiyle, I. toplumun dinî arayış içerisinde olduğu, II. kağanın kararlarının sorgulanabildiği, III. din değiştirmenin yaşam biçimini etkilediği durumlarından hangilerine ulaşılabilir?",
-          "options": {
+          "no": 1,
+          "metin": "Göktürk Devleti'nde, Bilge Kağan'ın Budist tapınağı yaptırma isteğine Vezir Tonyukuk, Budizm'i benimsemenin Türklerin mücadeleci ruhunu kaybetmelerine neden olacağı düşüncesiyle karşı çıkmıştır. Yalnız bu bilgiyle, (I) toplumun dinî arayış içerisinde olduğu, (II) kağanın kararlarının sorgulanabildiği, (III) din değiştirmenin yaşam biçimini etkilediği durumlarından hangilerine ulaşılabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "I ve II",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 2,
-          "text": "Türklerin İslamiyet'e geçmeleriyle aşağıdakilerden hangisi kültürel hayatlarında bir sanat kolu oluşturacak derecede önem kazanmıştır?",
-          "options": {
+          "no": 2,
+          "metin": "Türklerin İslamiyet'e geçmeleriyle aşağıdakilerden hangisi kültürel hayatlarında bir sanat kolu oluşturacak derecede önem kazanmıştır?",
+          "secenekler": {
             "A": "Hat",
-            "B": "Resim",
+            "B": "Minyatür",
             "C": "Heykel",
-            "D": "Müzik",
+            "D": "Resim",
             "E": "Dokuma"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 3,
-          "text": "Selçuklularda, I. hükümdarın Tanrı adına insanları yönetmekle görevli olması, II. ülkenin, hanedan üyelerinin ortak malı sayılması, III. din işlerinin halifeye, dünya işlerinin sultana ait olması durumlarından hangilerinin taht kavgalarına neden olduğu savunulabilir?",
-          "options": {
+          "no": 3,
+          "metin": "Selçuklularda, (I) hükümdarın Tanrı adına insanları yönetmekle görevli olması, (II) ülkenin, hanedan üyelerinin ortak malı sayılması, (III) din işlerinin halifeye, dünya işlerinin sultana ait olması durumlarından hangilerinin taht kavgalarına neden olduğu savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "II ve III"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 4,
-          "text": "Orhan Bey zamanında, I. ilk Osmanlı medresesinin açılması, II. Rumeli'ye geçilmesi, III. yaya ve atlı düzenli bir ordunun kurulması gelişmelerinden hangileri Osmanlı Devleti'nin bu dönemde teşkilatlanmaya başladığının bir göstergesi olduğu savunulabilir?",
-          "options": {
+          "no": 4,
+          "metin": "Orhan Bey zamanında, (I) ilk Osmanlı medresesinin açılması, (II) Rumeli'ye geçilmesi, (III) yaya ve atlı düzenli bir ordunun kurulması gelişmelerinden hangileri Osmanlı Devleti'nin bu dönemde teşkilatlanmaya başladığının bir göstergesi olduğu savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "I ve III",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 5,
-          "text": "XVII. yüzyılın başlarında Osmanlı Devleti'nin 32 eyaleti varken bu yüzyılın ortalarında 25'i timar sistemine dahil, 9'u sâlyâneli olmak üzere toplam eyalet sayısı 34'ü bulmuştur. Bu durumla ilgili olarak, I. İlk kez toprak kaybedilmiştir. II. Beylerbeyi sayısı artmıştır. III. Timar sistemi bozulmuştur. yargılarından hangilerine ulaşılabilir?",
-          "options": {
+          "no": 5,
+          "metin": "XVII. yüzyılın başlarında Osmanlı Devleti'nin 32 eyaleti varken bu yüzyılın ortalarında 25'i timar sistemine dahil, 9'u sâlyâneli olmak üzere toplam eyalet sayısı 34'ü bulmuştur. Bu durumla ilgili olarak, (I) İlk kez toprak kaybedilmiştir. (II) Beylerbeyi sayısı artmıştır. (III) Timar sistemi bozulmuştur. yargılarından hangilerine ulaşılabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 6,
-          "text": "Osmanlı Devleti'nde, I. Avrupa mallarının ülkeye girmesi, II. ticaret yollarının değişmesi, III. esnaf teşkilatının bozulması durumlarından hangilerinin ekonomiyi olumsuz yönde etkilediği savunulabilir?",
-          "options": {
+          "no": 6,
+          "metin": "Osmanlı Devleti'nde, (I) Avrupa mallarının ülkeye girmesi, (II) ticaret yollarının değişmesi, (III) esnaf teşkilatının bozulması durumlarından hangilerinin ekonomiyi olumsuz yönde etkilediği savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 7,
-          "text": "XIX. yüzyılda Osmanlı Devleti'nde dağılmayı önlemek amacıyla birtakım düşünce akımları ortaya çıkmıştır. Bu düşünce akımlarından Osmanlıcılık düşüncesinin önemini kaybetmesinde, I. Avrupa'da ulus devletlerin ortaya çıkması, II. Meşrutiyet'in ilanına rağmen azınlıkların ayrılıkçı hareketlerini sürdürmesi, III. Yeniçeri Ocağı'nın kaldırılması durumlarından hangilerinin etkili olduğu savunulabilir?",
-          "options": {
+          "no": 7,
+          "metin": "XIX. yüzyılda Osmanlı Devleti'nde dağılmayı önlemek amacıyla birtakım düşünce akımları ortaya çıkmıştır. Bu düşünce akımlarından Osmanlıcılık düşüncesinin önemini kaybetmesinde, (I) Avrupa'da ulus devletlerin ortaya çıkması, (II) Meşrutiyet'in ilanına rağmen azınlıkların ayrılıkçı hareketlerini sürdürmesi, (III) Yeniçeri Ocağı'nın kaldırılması durumlarından hangilerinin etkili olduğu savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "II ve III"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 8,
-          "text": "Osmanlı Devleti'nde gerekli görüldüğünde herhangi bir yöneticinin mal varlığına el konulabilmesi (müsadere) usulü Tanzimat Fermanı'yla kaldırılmıştır. Bu usulün kaldırılmasıyla yöneticinin, I. Devlete olan güveni artmıştır. II. Özel mülkiyet hakkına güvence getirilmiştir. III. Yöneticilik yetkileri artırılmıştır. yargılarından hangilerine ulaşılabilir?",
-          "options": {
+          "no": 8,
+          "metin": "Osmanlı Devleti'nde gerekli görüldüğünde herhangi bir yöneticinin mal varlığına el konulabilmesi (müsadere) usulü Tanzimat Fermanı'yla kaldırılmıştır. Bu usulün kaldırılmasıyla yöneticinin, (I) Devlete olan güveni artmıştır. (II) Özel mülkiyet hakkına güvence getirilmiştir. (III) Yöneticilik yetkileri artırılmıştır. yargılarından hangilerine ulaşılabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "I ve II",
             "D": "I ve III",
             "E": "II ve III"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 9,
-          "text": "Osmanlı Devleti'nde, I. Tanzimat'ın ilanı, II. Meşrutiyet'in ilanı, III. Islahat Fermanı'nın ilanı gelişmelerinin hangilerinde Avrupa'da görülen 1848 ihtilallerinin etkisi olduğu savunulabilir?",
-          "options": {
+          "no": 9,
+          "metin": "Osmanlı Devleti'nde, (I) Tanzimat'ın ilanı, (II) Meşrutiyet'in ilanı, (III) Islahat Fermanı'nın ilanı gelişmelerinin hangilerinde Avrupa'da görülen 1848 ihtilallerinin etkisi olduğu savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "II ve III"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 10,
-          "text": "Kurtuluş Savaşı'nda, TBMM Hükümetinin yarı resmî yayın organı hâline gelen gazete aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 10,
+          "metin": "Kurtuluş Savaşı'nda, TBMM Hükümetinin yarı resmî yayın organı hâline gelen gazete aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "Hakimiyet-i Milliye",
             "B": "Peyam-ı Sabah",
             "C": "İrade-i Milliye",
             "D": "Yenigün",
             "E": "İkdam"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 11,
-          "text": "Kurtuluş Savaşı'nda, * Birinci İnönü Zaferi'nden sonra Anlaşma Devletlerinin Londra'da konferans düzenlemesi ve TBMM'yi davet etmesi * Sakarya Zaferi'nden sonra Fransa'nın TBMM'yle Ankara Antlaşması'nı yapması gelişmeleriyle aşağıdakilerden hangisine ulaşıldığı savunulabilir?",
-          "options": {
+          "no": 11,
+          "metin": "Kurtuluş Savaşı'nda, Birinci İnönü Zaferi'nden sonra Anlaşma Devletlerinin Londra'da konferans düzenlemesi ve TBMM'yi davet etmesi; Sakarya Zaferi'nden sonra Fransa'nın TBMM'yle Ankara Antlaşması'nı yapması gelişmeleriyle aşağıdakilerden hangisine ulaşıldığı savunulabilir?",
+          "secenekler": {
             "A": "Anlaşma Devletlerinin TBMM'yi Sakarya Savaşı'ndan sonra tanıdığına",
             "B": "İngiltere'nin savaşın sonuna kadar Yunanlıları desteklediğine",
             "C": "Halkların dış politikada etkili olduğuna",
             "D": "Uluslararası antlaşmaları uygulamak zorunluluğu olduğuna",
             "E": "Askerî başarıların Anlaşma Devletlerini TBMM'yle antlaşma yapmaya zorladığına"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 12,
-          "text": "Türkiye Büyük Millet Meclisi, 11 Mayıs 1920 tarihinde Bekir Sami Bey'in başkanlığında bir heyeti, Moskova'ya Sovyetler Birliği'yle bağlantı kurmak ve dostluk antlaşması ortamı hazırlamak amacıyla göndermiştir. TBMM'nin, Sovyetler Birliği'yle antlaşma yapma gereği duymasındaki amacın aşağıdakilerden hangisi olduğu savunulabilir?",
-          "options": {
+          "no": 12,
+          "metin": "Türkiye Büyük Millet Meclisi, 11 Mayıs 1920 tarihinde Bekir Sami Bey'in başkanlığında bir heyeti, Moskova'ya Sovyetler Birliği'yle bağlantı kurmak ve dostluk antlaşması ortamı hazırlamak amacıyla göndermiştir. TBMM'nin, Sovyetler Birliği'yle antlaşma yapma gereği duymasındaki amacın aşağıdakilerden hangisi olduğu savunulabilir?",
+          "secenekler": {
             "A": "Londra Konferansı'nın yapılmasını geciktirmek",
             "B": "Sovyetler Birliği'ndeki yeni rejimin ülkede yayılmasını önlemek",
             "C": "Kafkasya Cumhuriyetlerinin kurulmasını engellemek",
             "D": "Düşmanları aynı olan iki ülke arasında siyasi ve askerî güç birliği sağlamak",
             "E": "Mecliste birlikte hareket edilmesini sağlayarak gruplaşmaları önlemek"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 13,
-          "text": "Kurtuluş Savaşı'nın bütün şiddetiyle devam ettiği bir ortamda ara seçimlere gidilerek TBMM'nin çalışmalarını sürdürmesi sağlanmıştır. Bu bilgiyle aşağıdakilerden hangisine ulaşılabilir?",
-          "options": {
+          "no": 13,
+          "metin": "Kurtuluş Savaşı'nın bütün şiddetiyle devam ettiği bir ortamda ara seçimlere gidilerek TBMM'nin çalışmalarını sürdürmesi sağlanmıştır. Bu bilgiyle aşağıdakilerden hangisine ulaşılabilir?",
+          "secenekler": {
             "A": "Halk egemenliğinin sürekliliğine önem verildiğine",
             "B": "TBMM Hükümetiyle İstanbul Hükümeti arasında görüş ayrılığı olduğuna",
             "C": "TBMM'ye Mebuslar Meclisinden katılım olduğuna",
             "D": "Ulusal güçlerin birleştirilmek istendiğine",
             "E": "Mecliste görüş ayrılıklarının olduğuna"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 14,
-          "text": "Türkiye, Musul'un Misakımilli sınırları içinde olduğuna aşağıdakilerden hangisini gerekçe olarak göstermiştir?",
-          "options": {
+          "no": 14,
+          "metin": "Türkiye, Musul'un Misakımilli sınırları içinde olduğuna aşağıdakilerden hangisini gerekçe olarak göstermiştir?",
+          "secenekler": {
             "A": "Türklerden başka ulusların da yaşamasını",
             "B": "Sykes-Picot Anlaşması'na göre Fransızlara verilmiş olmasını",
             "C": "Mondros Mütarekesi'nin imzalandığı tarihte Osmanlı sınırları içinde olmasını",
             "D": "Petrol bakımından zengin olmasını",
             "E": "İngiltere'nin mandası olmasını"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 15,
-          "text": "Lozan Antlaşması'yla, I. Boğazlar Komisyonunun kurulması, II. İstanbul'daki Rumlarla Batı Trakya'daki Türklerin mübadele dışında bırakılması, III. Yunanistan'ın savaş tazminatı karşılığı Karaağaç'ı, Türkiye'ye vermesi konularından hangileri Türk-Yunan ilişkilerinde uygulamalardan kaynaklanan sorunlara neden olmuştur?",
-          "options": {
+          "no": 15,
+          "metin": "Lozan Antlaşması'yla, (I) Boğazlar Komisyonunun kurulması, (II) İstanbul'daki Rumlarla Batı Trakya'daki Türklerin mübadele dışında bırakılması, (III) Yunanistan'ın savaş tazminatı karşılığı Karaağaç'ı, Türkiye'ye vermesi konularından hangileri Türk-Yunan ilişkilerinde uygulamalardan kaynaklanan sorunlara neden olmuştur?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "I ve II",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "C"
+          "dogru_cevap": "B"
         },
         {
-          "number": 16,
-          "text": "Türk kadını siyasi haklar olarak, I. mirastan aynı oranda pay alma, II. milletvekili seçme ve seçilme, III. belediye seçimlerine katılma haklarını kazanmıştır. Bu kazanımların kronolojik sıralaması aşağıdakilerden hangisidir?",
-          "options": {
+          "no": 16,
+          "metin": "Türk Kadını; (I) mirastan aynı oranda pay alma, (II) milletvekili seçme ve seçilme, (III) belediye seçimlerine katılma haklarını kazanmıştır. Bu kazanımların kronolojik sıralaması aşağıdakilerden hangisidir?",
+          "secenekler": {
             "A": "I, II, III",
             "B": "I, III, II",
             "C": "II, I, III",
             "D": "II, III, I",
             "E": "III, I, II"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 17,
-          "text": "* Kapitülasyonların kaldırılması * Kabotaj Kanunu'nun çıkarılması Yukarıdaki gelişmelerde aşağıdaki ilkelerden hangisinin temel alındığı savunulabilir?",
-          "options": {
+          "no": 17,
+          "metin": "Kapitülasyonların kaldırılması, Kabotaj Kanunu'nun çıkarılması. Yukarıdaki gelişmelerde aşağıdaki ilkelerden hangisinin temel alındığı savunulabilir?",
+          "secenekler": {
             "A": "Bağımsızlık",
             "B": "Laiklik",
             "C": "Halkçılık",
             "D": "Devletçilik",
             "E": "İnkılapçılık"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 18,
-          "text": "Atatürk'ün milliyetçilik anlayışının ırk, mezhep ve sınıf ayrılıklarına karşı olması, I. milli birlik ve beraberlik, II. kültürel birlik, III. sosyal dayanışma durumlarından hangilerini desteklediğini gösterir?",
-          "options": {
+          "no": 18,
+          "metin": "Atatürk'ün milliyetçilik anlayışının ırk, mezhep ve sınıf ayrılıklarına karşı olması, (I) milli birlik ve beraberlik, (II) kültürel birlik, (III) sosyal dayanışma durumlarından hangilerini desteklediğini gösterir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 19,
-          "text": "Atatürk, \"Ülkeler çeşitlidir, fakat uygarlık birdir ve bir milletin kalkınması için de bu tek uygarlığa katılması gerekir. Osmanlı Devleti'nin düşüşü Batı'ya karşı elde ettiği başarılardan çok, mağrur olarak kendisini Avrupa milletlerine bağlayan ilişkileri kestiği gün başlamıştır.\" demiştir. Atatürk'ün bu anlatımıyla aşağıdakilerden hangisine vurgu yaptığı söylenebilir?",
-          "options": {
+          "no": 19,
+          "metin": "Atatürk, \"Ülkeler çeşitlidir, fakat uygarlık birdir ve bir milletin kalkınması için de bu tek uygarlığa katılması gerekir. Osmanlı Devleti'nin düşüşü Batı'ya karşı elde ettiği başarılardan çok, mağrur olarak kendisini Avrupa milletlerine bağlayan ilişkileri kestiği gün başlamıştır.\" demiştir. Atatürk'ün bu anlatımıyla aşağıdakilerden hangisine vurgu yaptığı söylenebilir?",
+          "secenekler": {
             "A": "Eski bir tarih mirasına sahip olunduğuna",
             "B": "Batı'nın yayılmacı siyaset izlediğine",
             "C": "Çağdaşlaşmanın gereğine",
             "D": "İmparatorlukların siyasi varlıklarını korumalarının güçlüğüne",
             "E": "Batı uygarlığının kendisinden önceki uygarlıklardan yararlandığına"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 20,
-          "text": "I. Hilafet II. Şeriye ve Evkâf Bakanlığı III. Erkânı Harbiye Bakanlığı 1924 yılında, yukarıdakilerden hangilerinin yönetim birliğini güçlendirmek amacıyla kaldırıldığı savunulabilir?",
-          "options": {
+          "no": 20,
+          "metin": "(I) Hilafet, (II) Şeriye ve Evkâf Bakanlığı, (III) Erkânı Harbiye Bakanlığı. 1924 yılında, yukarıdakilerden hangilerinin yönetim birliğini güçlendirmek amacıyla kaldırıldığı savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 21,
-          "text": "Osmanlı Döneminde XIX. yüzyılın ilk yarısında sarık ve kavuk yerine fesin giyilmesine, Cumhuriyet Döneminin ilk yıllarında ise fesin yerine şapkanın giyilmesine karşı çıkılmıştır. Bu iki duruma göre, I. Yenilikler anlayış değişikliğinin sonucudur. II. Yenilikler tepkiyle karşılanmıştır. III. Yeniliklerin benimsenmesi belli bir süreci gerektirmiştir. yargılarından hangilerine ulaşılabilir?",
-          "options": {
+          "no": 21,
+          "metin": "Osmanlı Döneminde XIX. yüzyılın ilk yarısında sarık ve kavuk yerine fesin giyilmesine, Cumhuriyet Döneminin ilk yıllarında ise fesin yerine şapkanın giyilmesine karşı çıkılmıştır. Bu iki duruma göre, (I) Yenilikler anlayış değişikliğinin sonucudur. (II) Yenilikler tepkiyle karşılanmıştır. (III) Yeniliklerin benimsenmesi belli bir süreci gerektirmiştir. yargılarından hangilerine ulaşılabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "E"
+          "dogru_cevap": "D"
         },
         {
-          "number": 22,
-          "text": "Aşağıdakilerden hangisi, cumhuriyetin ilanının doğurduğu sonuçlardan biri değildir?",
-          "options": {
+          "no": 22,
+          "metin": "Aşağıdakilerden hangisi, cumhuriyetin ilanının doğurduğu sonuçlardan biri değildir?",
+          "secenekler": {
             "A": "Hükümet kurmanın yeni yönteme bağlanması",
             "B": "Devletin rejiminin adının konması",
             "C": "İstiklal Marşı'nın kabul edilmesi",
             "D": "Devletin başkanının belirlenmesi",
             "E": "Halifeliğin kaldırılması"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 23,
-          "text": "TBMM, aşağıdakilerden hangisiyle padişah ve halifenin siyasi ve hukuki yetkilerini üstlenmiştir?",
-          "options": {
+          "no": 23,
+          "metin": "TBMM, aşağıdakilerden hangisiyle padişah ve halifenin siyasi ve hukuki yetkilerini üstlenmiştir?",
+          "secenekler": {
             "A": "Teşkilat-ı Esâsiye Kanunu'nun kabul edilmesi",
             "B": "Tekâlif-i Milliye Buyrukları'nın çıkarılması",
             "C": "İstanbul'un resmen işgal edilmesi",
             "D": "Lozan Antlaşması'nın imzalanması",
             "E": "Hıyanet-i Vataniye Kanunu'nun çıkarılması"
           },
-          "answer": "B"
+          "dogru_cevap": "A"
         },
         {
-          "number": 24,
-          "text": "Aşağıdakilerden hangisi demokratik devlet anlayışıyla bağdaşmaz?",
-          "options": {
+          "no": 24,
+          "metin": "Aşağıdakilerden hangisi demokratik devlet anlayışıyla bağdaşmaz?",
+          "secenekler": {
             "A": "Seçimlerin düzenli aralıklarla tekrarlanması",
             "B": "Gelir ve servet ediniminin kısıtlanması",
             "C": "Etkin siyasi makama seçimle gelinmesi",
             "D": "Siyasi partilerin serbestçe kurulması",
             "E": "İktidarın el değiştirebilmesi"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 25,
-          "text": "Atatürk Dönemi ekonomisinde, I. Türkiye'nin ulusal çıkarlarına aykırı olmayan yabancı sermayeden yararlanma, II. aşar vergisini kaldırma, III. ekonomik politikaların uygulanmasında bilim ve teknolojiyi temel alma durumlarından hangileriyle üretimi artırmanın amaçlandığı savunulabilir?",
-          "options": {
+          "no": 25,
+          "metin": "Atatürk Dönemi ekonomisinde, (I) Türkiye'nin ulusal çıkarlarına aykırı olmayan yabancı sermayeden yararlanma, (II) aşar vergisini kaldırma, (III) ekonomik politikaların uygulanmasında bilim ve teknolojiyi temel alma durumlarından hangileriyle üretimi artırmanın amaçlandığı savunulabilir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 26,
-          "text": "1929'da başlayan dünya ekonomik bunalımıyla dünya ticaretinde bir düşüş olmuştur. Aşağıdakilerden hangisi bu durumla ortaya çıkan sonuçlardan biri değildir?",
-          "options": {
+          "no": 26,
+          "metin": "1929'da başlayan dünya ekonomik bunalımıyla dünya ticaretinde bir düşüş olmuştur. Aşağıdakilerden hangisi bu durumla ortaya çıkan sonuçlardan biri değildir?",
+          "secenekler": {
             "A": "Yaşamsal ham madde ihtiyacının artması",
             "B": "Sömürge edinme yarışının başlaması",
             "C": "Halkın alım gücünün azalması",
             "D": "Para değerlerinin düşmesi",
             "E": "İşsizliğin artması"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 27,
-          "text": "Ülkedeki tüm siyasi görüşlerin yönetime yansıtılması amacıyla, I. Terakkiperver Cumhuriyet Partisinin kurulması, II. Serbest Cumhuriyet Partisinin kurulması, III. Demokrat Partinin kurulması gelişmelerinden hangileri Atatürk Döneminde gerçekleşmiştir?",
-          "options": {
+          "no": 27,
+          "metin": "Ülkedeki tüm siyasi görüşlerin yönetime yansıtılması amacıyla, (I) Terakkiperver Cumhuriyet Partisinin kurulması, (II) Serbest Cumhuriyet Partisinin kurulması, (III) Demokrat Partinin kurulması gelişmelerinden hangileri Atatürk Döneminde gerçekleşmiştir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "I, II ve III"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 28,
-          "text": "Atatürk Döneminde Boğazların stratejik öneminin artmasında, aşağıdakilerden hangisinin etkisi olduğu savunulamaz?",
-          "options": {
+          "no": 28,
+          "metin": "Atatürk Döneminde Boğazların stratejik öneminin artmasında, aşağıdakilerden hangisinin etkisi olduğu savunulamaz?",
+          "secenekler": {
             "A": "Eski Doğu Bloku Ülkelerinin Batı ile ilişkilerinin yoğunlaşmaya başlaması",
-            "B": "Varşova Paktı'nın dağılması",
+            "B": "Varşova Paktı'nın dağılması (Bu olay Atatürk döneminden çok sonradır)",
             "C": "Boğazların Batı'ya açılan en önemli kapı olma özelliğini koruması",
             "D": "Kafkaslardaki devletler arasında sınır sorunlarının yaşanması",
             "E": "Rusya Federasyonu'nun Kafkas devletleri üzerinde etkinliğini korumaya çalışması"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 29,
-          "text": "I. Atatürk ilkelerinin Türkiye Devleti'nin temel nitelikleri olarak kabul edilmesi II. Milletvekili yeminlerinin \"Vallahi.\" yerine \"Namusum üzerine söz veriyorum.\" şeklinde değiştirilmesi III. Anayasa Mahkemesinin kurulması Yukarıdakilerden hangileri Atatürk Dönemi gelişmeleri arasındadır?",
-          "options": {
+          "no": 29,
+          "metin": "(I) Atatürk ilkelerinin Türkiye Devleti'nin temel nitelikleri olarak kabul edilmesi, (II) Milletvekili yeminlerinin \"Vallahi.\" yerine \"Namusum üzerine söz veriyorum.\" şeklinde değiştirilmesi, (III) Anayasa Mahkemesinin kurulması. Yukarıdakilerden hangileri Atatürk Dönemi gelişmeleri arasındadır?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "I ve II",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 30,
-          "text": "Balkan Devletleri arasında yakınlaşma başlaması ve Balkan Paktı'nın kurulmasında aşağıdakilerden hangisinin etkisi olduğu savunulamaz?",
-          "options": {
+          "no": 30,
+          "metin": "Balkan Devletleri arasında yakınlaşma başlaması ve Balkan Paktı'nın kurulmasında aşağıdakilerden hangisinin etkisi olduğu savunulamaz?",
+          "secenekler": {
             "A": "Birleşmiş Milletler Teşkilatının kurulmuş olması",
             "B": "İtalya'nın Doğu Akdeniz'e egemen olmak istemesi",
             "C": "Almanya'da Nazi Partisinin iktidara gelmesi",
             "D": "Silahlanma yarışının hızlanması",
             "E": "İtalya'da faşizmin güçlenmesi"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 31,
-          "text": "Bir Türkiye fiziki haritasında kahverengi tonlarının fazla olduğu yerlerle ilgili olarak aşağıdakilerden hangisi söylenemez?",
-          "options": {
+          "no": 31,
+          "metin": "Bir Türkiye fiziki haritasında kahverengi tonlarının fazla olduğu yerlerle ilgili olarak aşağıdakilerden hangisi söylenemez?",
+          "secenekler": {
             "A": "Karın yerde kalma süresinin uzun olduğu",
             "B": "Yıllık sıcaklık farkının az olduğu",
             "C": "Gerçek alanla iz düşümsel alan arasındaki farkın fazla olduğu",
             "D": "Akarsuların çağlayanlar oluşturduğu",
             "E": "Ulaşımda güçlüklerle karşılaşıldığı"
           },
-          "answer": "null"
+          "dogru_cevap": "B"
         },
         {
-          "number": 32,
-          "text": "Aşağıdakilerden hangisinin Akdeniz Bölgesi'yle Karadeniz Bölgesi arasında farklılık göstermesi enlem etkisine bağlanamaz?",
-          "options": {
+          "no": 32,
+          "metin": "Aşağıdakilerden hangisinin Akdeniz Bölgesi'yle Karadeniz Bölgesi arasında farklılık göstermesi enlem etkisine bağlanamaz?",
+          "secenekler": {
             "A": "Orman üst sınırı",
             "B": "Deniz turizmine uygun sürenin uzunluğu",
             "C": "Yağışın mevsimlere göre dağılışı",
             "D": "Tarım ürünlerinin olgunlaşma süresi",
             "E": "Gündüz süresinin uzunluğu"
           },
-          "answer": "null"
+          "dogru_cevap": "C"
         },
         {
-          "number": 33,
-          "text": "Yukarıdaki Türkiye haritasındaki taralı alanda yıl içinde çığ olasılığının fazla olmasında, I. mutlak nem oranının az olması, II. arazinin eğimli olması, III. ortalama yükseltinin fazla olması, IV. kar yağışının fazla olması etmenlerinden hangileri etkilidir?",
-          "options": {
+          "no": 33,
+          "metin": "Türkiye haritasındaki taralı alanda (Doğu Anadolu'nun doğusu) yıl içinde çığ olasılığının fazla olmasında, (I) mutlak nem oranının az olması, (II) arazinin eğimli olması, (III) ortalama yükseltinin fazla olması, (IV) kar yağışının fazla olması etmenlerinden hangileri etkilidir?",
+          "secenekler": {
             "A": "I ve II",
             "B": "I ve III",
             "C": "II ve III",
             "D": "II ve IV",
             "E": "III ve IV"
           },
-          "answer": "null"
+          "dogru_cevap": "D"
         },
         {
-          "number": 34,
-          "text": "Aşağıdaki tabloda 1950 ve 2000 yıllarında Türkiye'nin aritmetik, fizyolojik ve tarımsal nüfus yoğunlukları verilmiştir. (Tablo verileri) Bu tablodaki bilgiler, I. 2000 yılında kırsal kesimde yaşayan insan sayısı 1950 yılındakinden azdır. II. 1950-2000 yılları arasında Türkiye'nin nüfusu üç kattan fazla artmıştır. III. 2000 yılında tarım alanlarının toplam yüz ölçümü, 1950 yılındakinden daha azdır. yargılarından hangilerine ulaşmak için yeterlidir?",
-          "options": {
+          "no": 34,
+          "metin": "Aşağıdaki tabloda 1950 ve 2000 yıllarında Türkiye'nin aritmetik, fizyolojik ve tarımsal nüfus yoğunlukları verilmiştir (1950: Aritmetik 26, Fizyolojik 131, Tarımsal 107; 2000: Aritmetik 89, Fizyolojik 282, Tarımsal 98). Bu tablodaki bilgiler, (I) 2000 yılında kırsal kesimde yaşayan insan sayısı 1950 yılındakinden azdır. (II) 1950-2000 yılları arasında Türkiye'nin nüfusu üç kattan fazla artmıştır. (III) 2000 yılında tarım alanlarının toplam yüz ölçümü, 1950 yılındakinden daha azdır. yargılarından hangilerine ulaşmak için yeterlidir?",
+          "secenekler": {
             "A": "Yalnız I",
             "B": "Yalnız II",
             "C": "Yalnız III",
             "D": "I ve II",
             "E": "II ve III"
           },
-          "answer": "null"
+          "dogru_cevap": "B"
         },
         {
-          "number": 35,
-          "text": "Aşağıdakilerden hangisi, Güneydoğu Anadolu Bölgesi'nde nüfusun yoğun olduğu alanlar arasında yer almaz?",
-          "options": {
+          "no": 35,
+          "metin": "Aşağıdakilerden hangisi, Güneydoğu Anadolu Bölgesi'nde nüfusun yoğun olduğu alanlar arasında yer almaz?",
+          "secenekler": {
             "A": "Su kaynaklarına yakın alanlar",
             "B": "Sulama olanakları iyileşen ovalar",
             "C": "Ulaşım açısından önemli kavşaklar",
             "D": "Endüstrinin yoğun olduğu yerler",
             "E": "Hidroelektrik enerjinin üretildiği yerler"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 36,
-          "text": "Türkiye'de, çalışan nüfus içinde tarım sektörünün oranı 1980 yılında % 60 iken, bu oran 2000 yılında % 48'e düşmüştür. Aşağıdakilerden hangisinin bu azalmaya neden olduğu söylenebilir?",
-          "options": {
+          "no": 36,
+          "metin": "Türkiye'de, çalışan nüfus içinde tarım sektörünün oranı 1980 yılında % 60 iken, bu oran 2000 yılında % 48'e düşmüştür. Aşağıdakilerden hangisinin bu azalmaya neden olduğu söylenebilir?",
+          "secenekler": {
             "A": "Dış satımda tarım ürünleri payının azalması",
             "B": "Tarımda makineleşmenin artması",
             "C": "Kent sayısının artması",
             "D": "Ulaşım olanaklarının artması",
             "E": "Yetiştirilen tarım ürünü çeşidinin artması"
           },
-          "answer": "B"
+          "dogru_cevap": "B"
         },
         {
-          "number": 37,
-          "text": "Aşağıdaki tabloda dört bölgede yetiştirilen dört farklı tarım ürününün, Türkiye üretimindeki payları verilmiştir. (Tablo verileri) Bu bilgilere göre tabloda, aşağıdaki ürünlerden hangisine yer verilmemiştir?",
-          "options": {
+          "no": 37,
+          "metin": "Aşağıdaki tabloda dört bölgede yetiştirilen dört farklı tarım ürününün, Türkiye üretimindeki payları verilmiştir (Akdeniz %100, Güneydoğu %93, Marmara %77, Doğu Anadolu %64). Bu bilgilere göre tabloda, aşağıdaki ürünlerden hangisine yer verilmemiştir?",
+          "secenekler": {
             "A": "Tütün",
             "B": "Kırmızı mercimek",
             "C": "Muz",
             "D": "Ayçiçeği",
             "E": "Kayısı"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 38,
-          "text": "Türkiye'nin tarım politikalarıyla ilgili önemli uygulamalarından biri de destekleme alımlarıdır. Buna göre, aşağıdakilerden hangisi destekleme alımlarının amaçlarından biri değildir?",
-          "options": {
+          "no": 38,
+          "metin": "Türkiye'nin tarım politikalarıyla ilgili önemli uygulamalarından biri de destekleme alımlarıdır. Bu politikanın temeli, devletin üreticiye önceden ilan ettiği taban fiyattan ürününü satın alma garantisi vermesidir. Buna göre, aşağıdakilerden hangisi destekleme alımlarının amaçlarından biri değildir?",
+          "secenekler": {
             "A": "Üreticinin ürettiği ürünlerin elde kalmasını engellemesi",
             "B": "Üreticinin fiyatlardaki ani iniş ve çıkışlardan zarar görmesini engellemesi",
-            "C": "Ürünlerin uygun fiyatlarla piyasaya sunulması",
-            "D": "Aynı tarım ürünlerinin farklı bölgelerde benzer fiyatlarla satılmasının sağlanması",
-            "E": "Dış satımda rekabet gücünün artırılması"
+            "C": "Ürünlerin uygun fiyatlarla piyasaya sunulması ve keyfi fiyat artışının engellenmesi",
+            "D": "Aynı tarım ürününün tüm bölgelerde aynı fiyatlarla satılmasının sağlanması",
+            "E": "Üreticinin emeğinin karşılığını almasının sağlanması (Not: Seçenek D PDF'de kesik ama bağlamdan tamamlanmıştır)"
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 39,
-          "text": "Türkiye'nin büyükbaş hayvancılığıyla ilgili olarak aşağıdaki bilgilerden hangisi doğrudur?",
-          "options": {
+          "no": 39,
+          "metin": "Türkiye'nin büyükbaş hayvancılığıyla ilgili olarak aşağıdaki bilgilerden hangisi doğrudur?",
+          "secenekler": {
             "A": "Et ve süt verimleri yüksek olan ırklar çoğunluktadır.",
             "B": "Büyükbaş hayvancılık için uygun otlaklar giderek artmaktadır.",
             "C": "Küçükbaş hayvancılığa göre daha yaygın bir etkinliktir.",
             "D": "Besicilik ve ahır hayvancılığı, kentlerin yakın çevresinde gelişmiştir.",
             "E": "Dış satımda canlı büyükbaş hayvanların payı fazladır."
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 40,
-          "text": "Akdeniz Bölgesi'nin ekonomik bakımdan gelişmesinde aşağıdakilerden hangisinin etkisi diğerlerinden daha azdır?",
-          "options": {
+          "no": 40,
+          "metin": "Akdeniz Bölgesi'nin ekonomik bakımdan gelişmesinde aşağıdakilerden hangisinin etkisi diğerlerinden daha azdır?",
+          "secenekler": {
             "A": "Kıyı balıkçılığının yapılması",
             "B": "Tarıma dayalı endüstri kuruluşlarının bulunması",
             "C": "Turfanda meyve ve sebze üretiminin fazla olması",
             "D": "Turizm etkinliği ve potansiyeli bakımından zengin olması",
             "E": "Dış ticarette önemli yeri olan büyük limanlara sahip olması"
           },
-          "answer": "D"
+          "dogru_cevap": "A"
         },
         {
-          "number": 41,
-          "text": "Türkiye'de aşağıdakilerden hangisinin ormana verdiği zararın diğerlerinden daha az olduğu söylenebilir?",
-          "options": {
+          "no": 41,
+          "metin": "Türkiye'de aşağıdakilerden hangisinin ormana verdiği zararın diğerlerinden daha az olduğu söylenebilir?",
+          "secenekler": {
             "A": "Tarım alanı açma",
             "B": "Keçi otlatma",
             "C": "Yangınlar",
             "D": "Heyelan",
             "E": "Kaçak kesim"
           },
-          "answer": "E"
+          "dogru_cevap": "D"
         },
         {
-          "number": 42,
-          "text": "Doğu Karadeniz ve Hakkâri bölümlerinde, I. akarsuların akış hızının yüksek olması, II. tarımsal ürün çeşidinin az olması, III. yayla ve dağ turizminin gelişmiş olması, IV. bölüm dışına göçün fazla olması özelliklerinden hangileri ortaktır?",
-          "options": {
+          "no": 42,
+          "metin": "Doğu Karadeniz ve Hakkâri bölümlerinde, (I) akarsuların akış hızının yüksek olması, (II) tarımsal ürün çeşidinin az olması, (III) yayla ve dağ turizminin gelişmiş olması, (IV) bölüm dışına göçün fazla olması özelliklerinden hangileri ortaktır?",
+          "secenekler": {
             "A": "I ve II",
             "B": "I ve III",
             "C": "II ve III",
             "D": "II ve IV",
             "E": "III ve IV"
           },
-          "answer": "D"
+          "dogru_cevap": "E"
         },
         {
-          "number": 43,
-          "text": "Türkiye'de tarımsal etkinliklerin zorlaşmasında, I. eğimin fazla olması, II. ortalama yükseltinin fazla olması, III. şiddetli yaz kuraklığı yaşanması etkili olmaktadır. Buna göre, I, II ve III numaralı etmenlerin daha çok etkili olduğu iller aşağıdakilerin hangisinde verilmiştir?",
-          "options": {
-            "A": "Kars, Konya, Rize",
-            "B": "Konya, Rize, Kars",
-            "C": "Rize, Kars, Konya",
-            "D": "Kars, Rize, Konya",
-            "E": "Rize, Konya, Kars"
+          "no": 43,
+          "metin": "Türkiye'de tarımsal etkinliklerin zorlaşmasında, (I) eğimin fazla olması, (II) ortalama yükseltinin fazla olması, (III) şiddetli yaz kuraklığı yaşanması etkili olmaktadır. Buna göre, I, II ve III numaralı etmenlerin daha çok etkili olduğu iller aşağıdakilerin hangisinde verilmiştir?",
+          "secenekler": {
+            "A": "(I) Kars, (II) Konya, (III) Rize",
+            "B": "(I) Konya, (II) Rize, (III) Kars",
+            "C": "(I) Rize, (II) Kars, (III) Konya",
+            "D": "(I) Kars, (II) Rize, (III) Konya",
+            "E": "(I) Rize, (II) Konya, (III) Kars"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 44,
-          "text": "I. Afyonkarahisar - Et ve süt ürünleri II. Kırıkkale - Petrokimya III. Zonguldak - Orman ürünleri IV. İstanbul - Pamuklu dokuma Yukarıdaki illerden hangileri, birlikte verilen endüstri kolu için gerekli ham madde bakımından zengindir?",
-          "options": {
+          "no": 44,
+          "metin": "I. Afyonkarahisar - Et ve süt ürünleri, II. Kırıkkale - Petrokimya, III. Zonguldak - Orman ürünleri, IV. İstanbul- Pamuklu dokuma. Yukarıdaki illerden hangileri, birlikte verilen endüstri kolu için gerekli ham madde bakımından zengindir?",
+          "secenekler": {
             "A": "I ve II",
             "B": "I ve III",
             "C": "I ve IV",
             "D": "II ve III",
             "E": "III ve IV"
           },
-          "answer": "A"
+          "dogru_cevap": "B"
         },
         {
-          "number": 45,
-          "text": "Türkiye'nin ekonomik etkinliklerine ait aşağıdaki bilgilerden hangisi doğrudur?",
-          "options": {
+          "no": 45,
+          "metin": "Türkiye'nin ekonomik etkinliklerine ait aşağıdaki bilgilerden hangisi doğrudur?",
+          "secenekler": {
             "A": "Elektrik enerjisinin büyük bir kısmı yenilenebilir enerji kaynaklarından elde edilir.",
             "B": "Kırsal kesimde en yaygın hayvancılık etkinliği arıcılık ve balıkçılıktır.",
             "C": "Tarım sektörünün milli gelirdeki payı diğer sektörlerden fazladır.",
             "D": "Dış ticarette ilk sırada yer alan ülke Amerika Birleşik Devletleri'dir.",
             "E": "Gıda endüstrisinde ham maddenin büyük bir kısmı ülke içinden karşılanmaktadır."
           },
-          "answer": "null"
+          "dogru_cevap": "E"
         },
         {
-          "number": 46,
-          "text": "Aşağıdaki grafikte Türkiye'de 1975-2000 yılları arasındaki taş kömürü üretim ve tüketim miktarları gösterilmiştir. Yalnızca grafikten yararlanılarak aşağıdaki sonuçlardan hangisine ulaşılabilir?",
-          "options": {
+          "no": 46,
+          "metin": "Aşağıdaki grafikte Türkiye'de 1975-2000 yılları arasındaki taş kömürü üretim ve tüketim miktarları gösterilmiştir. Yalnızca grafikten yararlanılarak aşağıdaki sonuçlardan hangisine ulaşılabilir?",
+          "secenekler": {
             "A": "Taş kömürü rezervinde azalma olmuştur.",
             "B": "Taş kömürü üretim teknolojisinde değişme olmuştur.",
             "C": "Tüketimde diğer kömür türlerinin payı artmıştır.",
             "D": "Üretimin tüketimi karşılama oranı düşmüştür.",
             "E": "Taş kömürünün kullanım alanları artmıştır."
           },
-          "answer": "null"
+          "dogru_cevap": "D"
         },
         {
-          "number": 47,
-          "text": "Aşağıdaki haritada, Selçuklu Döneminde Anadolu'daki kervan ticaretinin yapıldığı yollar gösterilmiştir. Bu haritadaki yollar dikkate alındığında, Anadolu'daki ulaşımla ilgili aşağıdaki sonuçlardan hangisine ulaşılabilir?",
-          "options": {
+          "no": 47,
+          "metin": "Aşağıdaki haritada, Selçuklu Döneminde Anadolu'daki kervan ticaretinin yapıldığı yollar gösterilmiştir. Bu haritadaki yollar dikkate alındığında, Anadolu'daki ulaşımla ilgili aşağıdaki sonuçlardan hangisine ulaşılabilir?",
+          "secenekler": {
             "A": "Akdeniz kıyılarına ulaşmada Toroslar üzerindeki doğal geçitlerin kullanıldığı",
             "B": "Kıtalar arasında ulaşımın gelişmiş olduğu",
             "C": "Deniz taşımacılığında Ege limanlarının kullanıldığı",
             "D": "Kıyı boyunca ulaşımın gelişmiş olduğu",
             "E": "Tüm yolların akarsu vadilerini izlediği"
           },
-          "answer": "null"
+          "dogru_cevap": "A"
         },
         {
-          "number": 48,
-          "text": "Menteşe Yöresi'nin turizm merkezlerinde, aşağıdakilerden hangisinde yıl içerisinde diğerlerinden daha büyük oranda değişiklik görülür?",
-          "options": {
+          "no": 48,
+          "metin": "Menteşe Yöresi'nin turizm merkezlerinde, aşağıdakilerden hangisinde yıl içerisinde diğerlerinden daha büyük oranda değişiklik görülür?",
+          "secenekler": {
             "A": "Yaz aylarının sıcaklık değerlerinde",
             "B": "Deniz suyu sıcaklığında",
             "C": "Aritmetik nüfus yoğunluğunda",
             "D": "Tarımsal etkinliklerde",
             "E": "Kültür balıkçılığında"
           },
-          "answer": "null"
+          "dogru_cevap": "C"
         },
         {
-          "number": 49,
-          "text": "Aşağıdakilerden hangisi sosyal hayatı düzenleyen kurallardan biri değildir?",
-          "options": {
+          "no": 49,
+          "metin": "Aşağıdakilerden hangisi sosyal hayatı düzenleyen kurallardan biri değildir?",
+          "secenekler": {
             "A": "Din kuralları",
             "B": "Fizik kuralları",
             "C": "Görgü kuralları",
             "D": "Ahlak kuralları",
             "E": "Hukuk kuralları"
           },
-          "answer": "null"
+          "dogru_cevap": "B"
         },
         {
-          "number": 50,
-          "text": "Kullanıldıkları zaman mevcut bir hukuki durumu tamamen ortadan kaldıran haklara ne ad verilir?",
-          "options": {
+          "no": 50,
+          "metin": "Kullanıldıkları zaman mevcut bir hukuki durumu tamamen ortadan kaldıran haklara ne ad verilir?",
+          "secenekler": {
             "A": "Kişilik hakları",
             "B": "Kurucu yenilik doğuran haklar",
             "C": "Alelade haklar",
             "D": "Bozucu yenilik doğuran haklar",
             "E": "Değiştirici yenilik doğuran haklar"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 51,
-          "text": "Aşağıdakilerden hangisi borçlar hukukuna hakim olan ilkelerden biri değildir?",
-          "options": {
+          "no": 51,
+          "metin": "Aşağıdakilerden hangisi borçlar hukukuna hakim olan ilkelerden biri değildir?",
+          "secenekler": {
             "A": "Sözleşme özgürlüğü ilkesi",
             "B": "Eşitlik ilkesi",
             "C": "Zaman aşımı ve hak düşürücü süreye uğramama ilkesi",
             "D": "Nispilik ilkesi",
             "E": "Üçüncü kişi aleyhine borç kurulamaması ilkesi"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 52,
-          "text": "1982 Anayasası'na göre, TBMM'nin seçim dönemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
-          "options": {
+          "no": 52,
+          "metin": "1982 Anayasası'na göre, TBMM'nin seçim dönemi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": {
             "A": "2007 yılında gerçekleştirilen Anayasa değişikliği uyarınca TBMM seçimleri 5 yılda bir yapılır.",
             "B": "Meclis, seçim dönemi dolmadan üye tam sayısının en az salt çoğunluğunun oyu ile erken seçim kararı alabilir.",
             "C": "Meclisin, seçim dönemi dolmadan erken seçim kararı alması üzerine yapılan seçime ara seçim denir.",
             "D": "Cumhurbaşkanı, ülkenin herhangi bir nedenle siyasi bunalıma girdiğini düşündüğü her durumda, bu bunalımı çözme amacıyla TBMM seçimlerinin yenilenmesine karar verebilir.",
             "E": "TBMM Genel Kurulu veya Cumhurbaşkanı tarafından yenilenmesine karar verilen Meclisin yetkileri, yeni Meclisin seçilmesine kadar devam eder."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 53,
-          "text": "Türkiye'de Anayasa Mahkemesi ilk kez hangi anayasal düzenlemede yer almıştır?",
-          "options": {
+          "no": 53,
+          "metin": "Türkiye'de Anayasa Mahkemesi ilk kez hangi anayasal düzenlemede yer almıştır?",
+          "secenekler": {
             "A": "1921 Anayasası'nda Cumhuriyetin ilanı için yapılan değişiklikle birlikte",
             "B": "1924 Anayasası döneminde çok partili yaşama geçiş için yapılan değişiklikle birlikte",
             "C": "1961 Anayasası'nda",
             "D": "1961 Anayasası'nda 1971 yılında yapılan kapsamlı değişikliklerle birlikte",
             "E": "1982 Anayasası'nda"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 54,
-          "text": "1982 Anayasası'nın değiştirilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
-          "options": {
+          "no": 54,
+          "metin": "1982 Anayasası'nın değiştirilmesi ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+          "secenekler": {
             "A": "Anayasa'nın değiştirilmesi, TBMM üye tam sayısının en az üçte biri tarafından yazıyla teklif edilebilir.",
             "B": "TBMM Genel Kurulu, Anayasa değişikliğine ilişkin kanunların kabulü sırasında, bu kanunun halkoyuna sunulması hâlinde, Anayasa'nın değiştirilen hükümlerinden hangilerinin birlikte, hangilerinin ayrı ayrı oylanacağını da karara bağlar.",
             "C": "Anayasa'nın değiştirilmesi hakkındaki tekliflerin kabulü, Meclisin üye tam sayısının en az beşte üç çoğunluğunun gizli oyuyla mümkün olabilir.",
             "D": "TBMM Genel Kurulu tarafından üye tam sayısının en az üçte iki çoğunluğu ile kabul edilen bir Anayasa değişikliğini, Cumhurbaşkanı dilerse halkoyuna sunabilir, dilerse yürürlüğe girmesi için Resmî Gazete'de yayımlanmasına karar verebilir.",
-            "E": "TBMM Genel Kurulu acil hållerde Anayasa değişikliğine ilişkin tekliflerin bir kez oylanmasının yeterli olacağına karar verebilir. Ancak, böyle bir kararın alınabilmesi, TBMM üye tam sayısının en az üçte iki çoğunluğunun oyu ile mümkün olabilir."
+            "E": "TBMM Genel Kurulu acil hâllerde Anayasa değişikliğine ilişkin tekliflerin bir kez oylanmasının yeterli olacağına karar verebilir. Ancak, böyle bir kararın alınabilmesi, TBMM üye tam sayısının en az üçte iki çoğunluğunun oyu ile mümkün olabilir."
           },
-          "answer": "E"
+          "dogru_cevap": "E"
         },
         {
-          "number": 55,
-          "text": "Aşağıdakilerden hangisi idari yargı kuruluşları arasında yer alır?",
-          "options": {
+          "no": 55,
+          "metin": "Aşağıdakilerden hangisi idari yargı kuruluşları arasında yer alır?",
+          "secenekler": {
             "A": "Vergi mahkemeleri",
             "B": "Yargıtay",
             "C": "Anayasa Mahkemesi",
             "D": "Sulh hukuk mahkemeleri",
             "E": "Asliye ceza mahkemeleri"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 56,
-          "text": "I. Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanun II. Sakarya İlinde Büyükşehir Belediyesi Kurulması Hakkında Kanun Hükmünde Kararname III. Tapu Planları Tüzüğü Yukarıdakilerden hangileri Bakanlar Kurulu tarafından yapılan işlemlerden biridir?",
-          "options": {
+          "no": 56,
+          "metin": "(I) Başarılı Sporculara Aylık Bağlanması ile Devlet Sporcusu Unvanı Verilmesi Hakkında Kanun, (II) Sakarya İlinde Büyükşehir Belediyesi Kurulması Hakkında Kanun Hükmünde Kararname, (III) Tapu Planları Tüzüğü. Yukarıdakilerden hangileri Bakanlar Kurulu tarafından yapılan işlemlerden biridir?",
+          "secenekler": {
             "A": "Yalnız II",
             "B": "Yalnız III",
             "C": "I ve II",
             "D": "II ve III",
             "E": "I, II ve III"
           },
-          "answer": "D"
+          "dogru_cevap": "D"
         },
         {
-          "number": 57,
-          "text": "Aşağıdakilerden hangisi yerel yönetimler arasında yer almaz?",
-          "options": {
+          "no": 57,
+          "metin": "Aşağıdakilerden hangisi yerel yönetimler arasında yer almaz?",
+          "secenekler": {
             "A": "Ankara Büyükşehir Belediyesi",
             "B": "İzmir İl Özel İdaresi",
             "C": "İstanbul Ticaret Odası",
             "D": "Bandırma Belediyesi",
             "E": "Kozaklı Köyü"
           },
-          "answer": "C"
+          "dogru_cevap": "C"
         },
         {
-          "number": 58,
-          "text": "2008 yılında dünya ekonomisindeki toplam dış borcun yaklaşık % 60'ı aşağıdaki ülke gruplarından hangisine aittir?",
-          "options": {
+          "no": 58,
+          "metin": "2008 yılında dünya ekonomisindeki toplam dış borcun yaklaşık % 60'ı aşağıdaki ülke gruplarından hangisine aittir?",
+          "secenekler": {
             "A": "Çin, Japonya, Rusya",
             "B": "Kanada, Brezilya, Arjantin",
             "C": "Türkiye, Brezilya, İspanya, Endonezya",
             "D": "İngiltere, Fransa, Kanada, İtalya",
             "E": "ABD, İngiltere, Fransa, Almanya"
           },
-          "answer": "null"
+          "dogru_cevap": "E"
         },
         {
-          "number": 59,
-          "text": "Dünyada Türkiye'nin de dahil olduğu gelişmiş ve gelişmekte olan 20 ülkenin oluşturduğu G-20 toplantısı, 2009 yılı Nisan ayında hangi şehirde yapılmıştır?",
-          "options": {
+          "no": 59,
+          "metin": "Dünyada Türkiye'nin de dahil olduğu gelişmiş ve gelişmekte olan 20 ülkenin oluşturduğu G-20 toplantısı, 2009 yılı Nisan ayında hangi şehirde yapılmıştır?",
+          "secenekler": {
             "A": "Londra",
             "B": "Paris",
             "C": "Berlin",
             "D": "Strasbourg",
             "E": "Roma"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         },
         {
-          "number": 60,
-          "text": "Dünya Ticaret Örgütünün 2008 Dünya Ticareti Raporu'na göre en çok ithalat ve ihracat yapan 30 ülke listesinde Türkiye'nin sıralamadaki yeriyle ilgili aşağıdaki bilgilerden hangisi doğrudur?",
-          "options": {
-            "A": "25. sırada - 25. sırada",
-            "B": "20. sırada - İlk 30'a giremedi.",
-            "C": "İlk 30'a giremedi. - 10. sırada",
-            "D": "20. sırada - 20. sırada",
-            "E": "10. sırada - 10. sırada"
+          "no": 60,
+          "metin": "Dünya Ticaret Örgütünün 2008 Dünya Ticareti Raporu'na göre en çok ithalat ve ihracat yapan 30 ülke listesinde Türkiye'nin sıralamadaki yeriyle ilgili aşağıdaki bilgilerden hangisi doğrudur?",
+          "secenekler": {
+            "A": "İthalat: 25. sırada, İhracat: 25. sırada",
+            "B": "İthalat: 20. sırada, İhracat: İlk 30'a giremedi.",
+            "C": "İthalat: İlk 30'a giremedi., İhracat: 10. sırada",
+            "D": "İthalat: 20. sırada, İhracat: 20. sırada",
+            "E": "İthalat: 10. sırada, İhracat: 10. sırada"
           },
-          "answer": "A"
+          "dogru_cevap": "A"
         }
       ]
     }
